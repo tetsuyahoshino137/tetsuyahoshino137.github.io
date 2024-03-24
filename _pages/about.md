@@ -9,6 +9,8 @@ redirect_from:
 
 Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 
+---
+
 ## Working Papers
 **Rational Inattention and Endogenous Volatility: A Large Deviation Approach**
 : <span style="font-size:larger;">with Takashi Ui</span>
@@ -36,10 +38,6 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 : <span style="font-size:larger;">with Takuma Kamada  
 [Journal of Quantitative Criminology (2021)](https://link.springer.com/article/10.1007/s10940-020-09466-6)</span>
 
-**Third-Party Policing Approaches against Organized Crime**  
-: <span style="font-size:larger;">with Takuma Kamada</span>
-: <span style="font-size:larger;">[Journal of Quantitative Criminology (2021)](https://link.springer.com/article/10.1007/s10940-020-09466-6)</span>
-
 **Repeated Coordination with Private Learning**  
-with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz  
-[Journal of Economic Theory (2020)](https://www.sciencedirect.com/science/article/pii/S0022053120300995)  
+: <span style="font-size:larger;">with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz  
+[Journal of Economic Theory (2020)](https://www.sciencedirect.com/science/article/pii/S0022053120300995)</span>
