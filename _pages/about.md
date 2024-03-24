@@ -14,16 +14,19 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 :   with Takashi Ui
 
 **Information Acquisition and Free-Riding in Elections with Opinion Polls**
-;   with Andrei Gomberg
+:   with Andrei Gomberg
 
 **Two-Sided Markets and Restricted Boltzmann Machines**
-,   with Romans Pancs
+:   with Romans Pancs
+
+**Two-Sided Markets and Restricted Boltzmann Machines**
+: <span style="font-size:larger;">with Romans Pancs</span>
 
 **Bargaining and Information Acquisition**  
-.   with Kalyan Chatterjee and Miaomiao Dong  
+:   with Kalyan Chatterjee and Miaomiao Dong  
 
 - **Recursive Rational Inattention Is Entropic**  
-with Henrique De Oliveira
+:   with Henrique De Oliveira
 
 - **Enforcement against Organized Crime Increases Organized Fraud**  
 with Takuma Kamada  
