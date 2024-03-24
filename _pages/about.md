@@ -22,6 +22,10 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 **Two-Sided Markets and Restricted Boltzmann Machines**
 : <span style="font-size:larger;">with Romans Pancs</span>
 
+
+**Two-Sided Markets and Restricted Boltzmann Machines**  
+with Romans Pancs</span>
+
 **Bargaining and Information Acquisition**  
 :   with Kalyan Chatterjee and Miaomiao Dong  
 
