@@ -23,7 +23,7 @@ with Romans Pancs
 - **Bargaining and Information Acquisition**  
 with Kalyan Chatterjee and Miaomiao Dong  
 
-- **Recursive Rational Inattention Is Entropic**
+- **Recursive Rational Inattention Is Entropic**  
 with Henrique De Oliveira
 
 - **Enforcement against Organized Crime Increases Organized Fraud**  
