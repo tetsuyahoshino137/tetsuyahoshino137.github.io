@@ -12,8 +12,8 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 Publications
 ======
 - **Rational Inattention and Endogenous Volatility: A Large Deviation Approach** (with T. Ui)  
-• Does rational inattention create endogenous volatility in large economies (as #agents approaches infinity)?  
-• This paper subsumes a part of my JMP.
+– Does rational inattention create endogenous volatility in large economies (as #agents approaches infinity)?  
+– This paper subsumes a part of my JMP.
 
 
 Working Papers
