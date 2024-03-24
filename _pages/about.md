@@ -44,6 +44,7 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 
 ## Publications
 <span style="font-size:larger;">
+
 **Multi-Agent Persuasion: Leveraging Strategic Uncertainty**  
 : [International Economic Review (2022)](https://onlinelibrary.wiley.com/doi/10.1111/iere.12546)  
 
