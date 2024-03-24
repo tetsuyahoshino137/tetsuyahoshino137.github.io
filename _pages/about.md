@@ -19,11 +19,11 @@ Publications
 Working Papers
 ======
 - **Multi-Agent Persuasion: Leveraging Strategic Uncertainty**  
-International Economic Review (2022)  
+[International Economic Review (2022)](https://onlinelibrary.wiley.com/doi/10.1111/iere.12546)  
 Can a principal persuade multiple agents to take particular actions by manipulating their higher-order beliefs?
 
 - **Third-Party Policing Approaches against Organized Crime** (with T. Kamada)  
-Journal of Quantitative Criminology (2021)  
+[Journal of Quantitative Criminology (2021)](https://link.springer.com/article/10.1007/s10940-020-09466-6)  
 Did third-party policing against the yakuza (criminal organizations in Japan) weaken them?
 
 - **Repeated Coordination with Private Learning** (with P. Basu, K. Chatterjee, and O. Tamuz)  
