@@ -33,4 +33,4 @@ Third-party policing against the yakuza (criminal organizations in Japan) weaken
 
 - **Repeated Coordination with Private Learning** (with P. Basu, K. Chatterjee, and O. Tamuz)  
 [Journal of Economic Theory (2020)](https://www.sciencedirect.com/science/article/pii/S0022053120300995)  
-Players commonly learn a state while repeatedly playing a coordination game. They also coordinate efficiently.
+While repeating a coordination game, players commonly learn a state and can coordinate efficiently.
