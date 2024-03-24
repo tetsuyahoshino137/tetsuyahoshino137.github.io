@@ -13,8 +13,7 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 **Rational Inattention and Endogenous Volatility: A Large Deviation Approach**
 with Takashi Ui
 
-**Information Acquisition and Free-Riding in Elections with Opinion Polls**  
-:   with Andrei Gomberg
+**Information Acquisition and Free-Riding in Elections with Opinion Polls** : with Andrei Gomberg
 
 **Two-Sided Markets and Restricted Boltzmann Machines**
 :   with Romans Pancs
