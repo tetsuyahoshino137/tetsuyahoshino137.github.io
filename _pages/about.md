@@ -29,16 +29,17 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 : <span style="font-size:larger;">with Takuma Kamada</span>
 
 ## Publications
-- **Multi-Agent Persuasion: Leveraging Strategic Uncertainty**  
+**Multi-Agent Persuasion: Leveraging Strategic Uncertainty**  
 : <span style="font-size:larger;">[International Economic Review (2022)](https://onlinelibrary.wiley.com/doi/10.1111/iere.12546)</span>
 
-- **Multi-Agent Persuasion: Leveraging Strategic Uncertainty**  
-[International Economic Review (2022)](https://onlinelibrary.wiley.com/doi/10.1111/iere.12546)  
+**Third-Party Policing Approaches against Organized Crime**  
+: <span style="font-size:larger;">with Takuma Kamada  
+[Journal of Quantitative Criminology (2021)](https://link.springer.com/article/10.1007/s10940-020-09466-6)</span>
 
-- **Third-Party Policing Approaches against Organized Crime**  
-with Takuma Kamada  
-[Journal of Quantitative Criminology (2021)](https://link.springer.com/article/10.1007/s10940-020-09466-6)  
+**Third-Party Policing Approaches against Organized Crime**  
+: <span style="font-size:larger;">with Takuma Kamada</span>
+: <span style="font-size:larger;">[Journal of Quantitative Criminology (2021)](https://link.springer.com/article/10.1007/s10940-020-09466-6)</span>
 
-- **Repeated Coordination with Private Learning**  
+**Repeated Coordination with Private Learning**  
 with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz  
 [Journal of Economic Theory (2020)](https://www.sciencedirect.com/science/article/pii/S0022053120300995)  
