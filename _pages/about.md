@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:smaller;">
+<span style="font-size:small;">
 Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 </span>
 
 ---
 
 ## Working Papers
-**Rational Inattention and Endogenous Volatility: A Large Deviation Approach**
-: <span style="font-size:larger;">
+**Rational Inattention and Endogenous Volatility: A Large Deviation Approach**  
+<span style="font-size:large;">
 with Takashi Ui
 </span>
 
