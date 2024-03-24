@@ -11,31 +11,27 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 
 ## Working Papers
 **Rational Inattention and Endogenous Volatility: A Large Deviation Approach**
-:   with Takashi Ui
+: <span style="font-size:larger;">with Takashi Ui</span>
 
 **Information Acquisition and Free-Riding in Elections with Opinion Polls**
-:   with Andrei Gomberg
-
-**Two-Sided Markets and Restricted Boltzmann Machines**
-:   with Romans Pancs
+: <span style="font-size:larger;">with Andrei Gomberg</span>
 
 **Two-Sided Markets and Restricted Boltzmann Machines**
 : <span style="font-size:larger;">with Romans Pancs</span>
 
-
-**Two-Sided Markets and Restricted Boltzmann Machines**  
-with Romans Pancs</span>
-
 **Bargaining and Information Acquisition**  
-:   with Kalyan Chatterjee and Miaomiao Dong  
+: <span style="font-size:larger;">with Kalyan Chatterjee and Miaomiao Dong</span>
 
-- **Recursive Rational Inattention Is Entropic**  
-:   with Henrique De Oliveira
+**Recursive Rational Inattention Is Entropic**  
+: <span style="font-size:larger;">with Henrique De Oliveira</span>
 
-- **Enforcement against Organized Crime Increases Organized Fraud**  
-with Takuma Kamada  
+**Enforcement against Organized Crime Increases Organized Fraud**  
+: <span style="font-size:larger;">with Takuma Kamada</span>
 
 ## Publications
+- **Multi-Agent Persuasion: Leveraging Strategic Uncertainty**  
+: <span style="font-size:larger;">[International Economic Review (2022)](https://onlinelibrary.wiley.com/doi/10.1111/iere.12546)</span>
+
 - **Multi-Agent Persuasion: Leveraging Strategic Uncertainty**  
 [International Economic Review (2022)](https://onlinelibrary.wiley.com/doi/10.1111/iere.12546)  
 
