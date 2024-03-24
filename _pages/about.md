@@ -12,13 +12,13 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 Working Papers
 ======
 **Rational Inattention and Endogenous Volatility: A Large Deviation Approach**
-:   with Takashi Ui
+: with Takashi Ui
 
 **Information Acquisition and Free-Riding in Elections with Opinion Polls**
-:   with Andrei Gomberg
+:  with Andrei Gomberg
 
-- **Two-Sided Markets and Restricted Boltzmann Machines**  
-with Romans Pancs  
+**Two-Sided Markets and Restricted Boltzmann Machines**
+:   with Romans Pancs
 
 - **Bargaining and Information Acquisition**  
 with Kalyan Chatterjee and Miaomiao Dong  
