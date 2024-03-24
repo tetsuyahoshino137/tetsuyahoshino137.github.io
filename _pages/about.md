@@ -19,12 +19,12 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 with Takashi Ui
 </span>
 
-**Information Acquisition and Free-Riding in Elections with Opinion Polls**
+**Information Acquisition and Free-Riding in Elections with Opinion Polls**  
 <span style="font-size:medium;">
 with Andrei Gomberg
 </span>
 
-**Two-Sided Markets and Restricted Boltzmann Machines**
+**Two-Sided Markets and Restricted Boltzmann Machines**  
 <span style="font-size:medium;">
 with Romans Pancs</span>
 
