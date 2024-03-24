@@ -11,10 +11,14 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 
 Research
 ======
+**Multi-Agent Persuasion: Leveraging Strategic Uncertainty**  
+International Economic Review (2022)  
+Can a principal persuade multiple agents to take particular actions by manipulating their higher-order beliefs?
+
+**Third-Party Policing Approaches against Organized Crime** (with T. Kamada)  
+Journal of Quantitative Criminology (2021)  
+Did third-party policing against the yakuza (criminal organizations in Japan) weaken them?
+
 **Repeated Coordination with Private Learning** (with P. Basu, K. Chatterjee, and O. Tamuz)  
 [Journal of Economic Theory (2020)](https://www.sciencedirect.com/science/article/pii/S0022053120300995)  
 Does common learning occur in a repeated coordination game with observable actions? Can players eventually coordinate?
-
-Research
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
