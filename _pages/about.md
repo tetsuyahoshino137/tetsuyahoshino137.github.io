@@ -15,7 +15,7 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 
 ## Working Papers
 **Rational Inattention and Endogenous Volatility: A Large Deviation Approach**  
-<span style="font-size:large;">
+<span style="font-size:small;">
 with Takashi Ui
 </span>
 
