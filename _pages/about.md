@@ -11,14 +11,11 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 
 Working Papers
 ======
-- **Rational Inattention and Endogenous Volatility: A Large Deviation Approach**  
-with Takashi Ui  
+**Rational Inattention and Endogenous Volatility: A Large Deviation Approach**
+:   with Takashi Ui
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-- **Information Acquisition and Free-Riding in Elections with Opinion Polls**  
-with Andrei Gomberg  
+**Information Acquisition and Free-Riding in Elections with Opinion Polls**
+:   with Andrei Gomberg
 
 - **Two-Sided Markets and Restricted Boltzmann Machines**  
 with Romans Pancs  
