@@ -23,13 +23,19 @@ with Romans Pancs
 - **Bargaining and Information Acquisition**  
 with Kalyan Chatterjee and Miaomiao Dong  
 
+- **Recursive Rational Inattention Is Entropic**
+with Henrique De Oliveira
+
+- **Enforcement against Organized Crime Increases Organized Fraud**  
+with Takuma Kamada  
+
 Publications
 ======
 - **Multi-Agent Persuasion: Leveraging Strategic Uncertainty**  
 [International Economic Review (2022)](https://onlinelibrary.wiley.com/doi/10.1111/iere.12546)  
 A principal can persuade multiple agents to take particular actions with probability 1 by manipulating their higher-order beliefs.
 
-- **Third-Party Policing Approaches against Organized Crime: An Evaluation of the Yakuza Exclusion Ordinances**  
+- **Third-Party Policing Approaches against Organized Crime**  
 with Takuma Kamada  
 [Journal of Quantitative Criminology (2021)](https://link.springer.com/article/10.1007/s10940-020-09466-6)  
 Third-party policing against the yakuza (criminal organizations in Japan) weakened them.
