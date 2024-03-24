@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+<span style="font-size:larger;">
 Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
+</span>
 
 ---
 
