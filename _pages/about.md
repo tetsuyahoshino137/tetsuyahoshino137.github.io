@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:small;">
+<span style="font-size:medium;">
 Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 </span>
 
@@ -15,12 +15,12 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 
 ## Working Papers
 **Rational Inattention and Endogenous Volatility: A Large Deviation Approach**  
-<span style="font-size:small;">
+<span style="font-size:medium;">
 with Takashi Ui
 </span>
 
 **Information Acquisition and Free-Riding in Elections with Opinion Polls**
-: <span style="font-size:larger;">
+: <span style="font-size:large;">
 with Andrei Gomberg
 </span>
 
