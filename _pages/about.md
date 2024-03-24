@@ -14,6 +14,9 @@ Working Papers
 - **Rational Inattention and Endogenous Volatility: A Large Deviation Approach**  
 with Takashi Ui  
 
+Startup
+:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+
 - **Information Acquisition and Free-Riding in Elections with Opinion Polls**  
 with Andrei Gomberg  
 
