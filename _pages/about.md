@@ -12,14 +12,12 @@ Assistant Professor of Economics at ITAM. Ph.D. in Economics (Penn State).
 Working Papers
 ======
 - **Rational Inattention and Endogenous Volatility: A Large Deviation Approach** (with T. Ui)  
-Rational inattention creates endogenous volatility in large economies.  
-This paper subsumes a part of my JMP.
+
+- **Information Acquisition and Free-Riding in Elections with Opinion Polls** (with A. Gomberg)  
 
 - **Two-Sided Markets and Restricted Boltzmann Machines** (with R. Pancs)  
-A two-sided market model is formally equivalent to a restricted Boltzmann machine, a neural network model.
 
-- **Bargaining and Information Acquisitions** (with K. Chatterjee and M. Dong)  
-A buyer with cheap access to information can gain a full surplus from a seller with full bargaining power.
+- **Bargaining and Information Acquisition** (with K. Chatterjee and M. Dong)  
 
 Publications
 ======
