@@ -47,8 +47,9 @@ title: Home
   <li>
     {% if p.pdf %}<a href="{{ p.pdf }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}
     {% if p.coauthors %}({{ p.coauthors }}){% endif %}
-    {% if p.slides %}<br><span class="meta"><a href="{{ p.slides }}">Slides</a></span>{% endif %}
-    {% if p.replication %}<br><span class="meta"><a href="{{ p.replication }}">Replication codes</a></span>{% endif %}
+    {% if p.slides or p.replication %}
+    <br><span class="meta">{% if p.slides %}<a href="{{ p.slides }}">Slides</a>{% endif %}{% if p.slides and p.replication %} and {% endif %}{% if p.replication %}<a href="{{ p.replication }}">Replication codes</a>{% endif %}</span>
+    {% endif %}
     {% if p.rnr %}<br><span class="meta journal">{{ p.rnr }}</span>{% endif %}
     {% if p.note %}<br><span class="meta">{{ p.note }}</span>{% endif %}
   </li>
@@ -63,10 +64,8 @@ title: Home
   {% for p in site.publications %}
   <li>
     {% if p.pdf %}<a href="{{ p.pdf }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}
-    {% if p.coauthors %}({{ p.coauthors }}){% endif %}<br>
-    <span class="journal">
-      {% if p.journal_url %}<a href="{{ p.journal_url }}">{{ p.journal }} {{ p.year }}</a>{% else %}{{ p.journal }} {{ p.year }}{% endif %}
-    </span>
+    {% if p.coauthors %}({{ p.coauthors }}){% endif %}
+    <br><span class="meta journal">{% if p.journal_url %}<a href="{{ p.journal_url }}">{{ p.journal }} {{ p.year }}</a>{% else %}{{ p.journal }} {{ p.year }}{% endif %}</span>
   </li>
   {% endfor %}
 </ul>
