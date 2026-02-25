@@ -47,15 +47,10 @@ title: Home
   <li>
     {% if p.pdf %}<a href="{{ p.pdf }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}
     {% if p.coauthors %}({{ p.coauthors }}){% endif %}
-    {% if p.rnr or p.slides or p.replication or p.note %}
-    <br><span class="meta">
-      {% if p.slides %}<a href="{{ p.slides }}">Slides</a>{% endif %}
-      {% if p.slides and p.replication %} and {% endif %}
-      {% if p.replication %}<a href="{{ p.replication }}">Replication codes</a>{% endif %}
-      {% if p.rnr %} · <span class="journal">{{ p.rnr }}</span>{% endif %}
-      {% if p.note %} · {{ p.note }}{% endif %}
-    </span>
-    {% endif %}
+    {% if p.slides %}<br><span class="meta"><a href="{{ p.slides }}">Slides</a></span>{% endif %}
+    {% if p.replication %}<br><span class="meta"><a href="{{ p.replication }}">Replication codes</a></span>{% endif %}
+    {% if p.rnr %}<br><span class="meta journal">{{ p.rnr }}</span>{% endif %}
+    {% if p.note %}<br><span class="meta">{{ p.note }}</span>{% endif %}
   </li>
   {% endfor %}
 </ul>
