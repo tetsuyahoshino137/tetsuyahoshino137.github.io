@@ -38,7 +38,7 @@ title: Home
 ## Working Papers
 
 * [Elections with Opinion Polls: Information Acquisition and Aggregation](GombergHoshino/GombergHoshino250408.pdf) (with Andrei Gomberg)  
-  \[[Slides](GombergHoshino/GombergHoshinoSlide250503_CETC.pdf)\] \[[Replication codes](#)\]
+  \[[Slides](GombergHoshino/GombergHoshinoSlide250503_CETC.pdf)\] \[[Replication codes](https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing)\]
 
 * [Rational Inattention and Endogenous Volatility: A Large Deviation Approach](HoshinoUi/HoshinoUi20251120.pdf) (with Takashi Ui)  
   \[[Slides](HoshinoUi/StatMechRI_BRIC.pdf)\]  
@@ -47,7 +47,7 @@ title: Home
 * [Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza](HoshinoKamada/YakuzaFraud20260125.pdf) (with Takuma Kamada)
 
 * [Two-Sided Markets and Restricted Boltzmann Machines](HoshinoPancs/HoshinoPancs20250513.pdf) (with Romans Pancs)  
-  \[[Slides](HoshinoPancs/HoshinoPancs_EconometricSocietyAIML.pdf)\] \[[Replication codes](#)\]  
+  \[[Slides](HoshinoPancs/HoshinoPancs_EconometricSocietyAIML.pdf)\] \[[Replication codes](https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing)\]  
   <span class="red">R&R at *Management Science*</span>
 
 * Recursive Rational Inattention Is Entropic (with Henrique De Oliveira)  
