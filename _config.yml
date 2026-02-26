@@ -1,82 +1,18 @@
 # ============================================================
 # TETSUYA HOSHINO - WEBSITE CONFIGURATION
-# Edit this file to update your website content.
+# Edit this file to update your name, email, CV, and seminars.
+# To update papers and publications, edit index.md instead.
 # ============================================================
 
-# --- Basic Info ---
-title: "Tetsuya Hoshino"
+title: "T. Hoshino"
 name: "Tetsuya HOSHINO"
 position: "Associate Professor of Economics at Kyoto University"
 email: "tetsuyahoshino137@gmail.com"
-location: "Kyoto, Japan"
 cv: "cv/tetsuya_hoshino_cv20251211.pdf"
 
 # --- Upcoming Seminars ---
+# Add or remove lines below to update your seminars list.
 seminars:
   - "Seoul National University (February 13)"
   - "CAU–NTU Conference at Chung-Ang University (May 28)"
   - "Keio University (June 26)"
-
-# --- Working Papers ---
-# For each paper: title, coauthors, pdf, slides, replication, note, rnr (journal if R&R)
-working_papers:
-  - title: "Elections with Opinion Polls: Information Acquisition and Aggregation"
-    coauthors: "with Andrei Gomberg"
-    pdf: "GombergHoshino/GombergHoshino250408.pdf"
-    slides: "GombergHoshino/GombergHoshinoSlide250503_CETC.pdf"
-    replication: ""
-
-  - title: "Rational Inattention and Endogenous Volatility: A Large Deviation Approach"
-    coauthors: "with Takashi Ui"
-    pdf: "HoshinoUi/HoshinoUi20251120.pdf"
-    slides: "HoshinoUi/StatMechRI_BRIC.pdf"
-    note: "To be presented at Seoul National University (February 13)"
-
-  - title: "Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza"
-    coauthors: "with Takuma Kamada"
-    pdf: "HoshinoKamada/YakuzaFraud20260125.pdf"
-
-  - title: "Two-Sided Markets and Restricted Boltzmann Machines"
-    coauthors: "with Romans Pancs"
-    pdf: "HoshinoPancs/HoshinoPancs20250513.pdf"
-    slides: "HoshinoPancs/HoshinoPancs_EconometricSocietyAIML.pdf"
-    replication: ""
-    rnr: "Revise & Resubmit at Management Science"
-
-  - title: "Recursive Rational Inattention Is Entropic"
-    coauthors: "with Henrique De Oliveira"
-    slides: ""
-
-  - title: "Rational Inattention in Games"
-    pdf: "jmp2019/ri_in_games_jmp.pdf"
-    note: "A part of this paper is subsumed by the joint work with Takashi Ui."
-
-# --- Publications ---
-# For each paper: title, coauthors, pdf, journal, journal_url, year
-publications:
-  - title: "Bargaining and Information Acquisition"
-    coauthors: "with Kalyan Chatterjee and Miaomiao Dong"
-    pdf: "ChatterjeeDongHoshino/ChatterjeeDongHoshino20240904.pdf"
-    journal: "American Economic Journal: Micro"
-    journal_url: "https://www.aeaweb.org/articles?id=10.1257/mic.20240034"
-    year: 2025
-
-  - title: "Multi-Agent Persuasion: Leveraging Strategic Uncertainty"
-    pdf: "HoshinoMultiAgent/Hoshino20210901.pdf"
-    journal: "International Economic Review"
-    journal_url: "https://onlinelibrary.wiley.com/doi/10.1111/iere.12546"
-    year: 2022
-
-  - title: "Third-Party Policing Approaches against Organized Crime"
-    coauthors: "with Takuma Kamada"
-    pdf: "HoshinoKamada/yakuza_20200601.pdf"
-    journal: "Journal of Quantitative Criminology"
-    journal_url: "https://link.springer.com/article/10.1007/s10940-020-09466-6"
-    year: 2021
-
-  - title: "Repeated Coordination with Private Learning"
-    coauthors: "with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz"
-    pdf: "BasuChatterjeeHoshinoTamuz/BasuChatterjeeHoshinoTamuz20200731.pdf"
-    journal: "Journal of Economic Theory"
-    journal_url: "https://www.sciencedirect.com/science/article/abs/pii/S0022053120300995"
-    year: 2020
