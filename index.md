@@ -21,7 +21,7 @@ title: Home
       </li>
     </ul>
 
-    <strong>Upcoming Seminars/Conferences:</strong>
+    <strong class="upcoming-title">Upcoming Seminars/Conferences:</strong>
     <ul class="upcoming-list">
       <li>Seoul National University (February 13)</li>
       <li>CAU–NTU Conference at Chung-Ang University (May 28)</li>
