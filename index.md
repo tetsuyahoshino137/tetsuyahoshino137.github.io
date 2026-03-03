@@ -17,7 +17,7 @@ title: Home
         </span>
       </li>
       <li>
-        <a href="TetsuyaHoshinoCV251211.pdf">CV (December 2025)</a>
+        <strong style="margin-right: 5px;"><a href="TetsuyaHoshinoCV251211.pdf">CV (December 2025)</a></strong>
       </li>
     </ul>
 
