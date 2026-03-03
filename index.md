@@ -9,9 +9,7 @@ title: Home
     <h1>{{ site.name }}</h1>
     <p>{{ site.position }}</p>
     <ul>
-      <li>
-        <strong style="margin-right: 5px;"><a href="TetsuyaHoshinoCV251211.pdf">CV (December 2025)</a></strong>
-      </li>
+      <li><strong style="margin-right: 5px;"><a href="TetsuyaHoshinoCV251211.pdf">CV (December 2025)</a></strong></li>
       <li>
         <strong style="margin-right: 5px;">Email:</strong>
         <span>
@@ -20,14 +18,14 @@ title: Home
         </span>
       </li>
     </ul>
-    <p><strong>Upcoming Seminars/Conferences:</strong></p>
-    <ul>
-      <li>Seoul National University (February 13)</li>
-      <li>CAU–NTU Conference at Chung-Ang University (May 28)</li>
-      <li>Keio University (June 26)</li>
-    </ul>
   </div>
 </div>
+
+**Upcoming Seminars/Conferences:**
+
+* Seoul National University (February 13)  
+* CAU–NTU Conference at Chung-Ang University (May 28)  
+* Keio University (June 26)
 
 ---
 
