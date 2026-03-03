@@ -18,7 +18,7 @@ title: Home
       </li>
       <li>
         <span class="icon">📄</span>
-        <span class="red">\[[CV (December 2025)](tetsuya_hoshino_cv20251211)\]</span>
+        \[[CV (December 2025)](tetsuya_hoshino_cv20251211.pdf)\]
       </li>
     </ul>
 
@@ -36,7 +36,7 @@ title: Home
 ## Working Papers
 
 * [Elections with Opinion Polls: Information Acquisition and Aggregation](GombergHoshino/GombergHoshino250408.pdf) (with Andrei Gomberg)  
-  \[[Slides](GombergHoshino/GombergHoshinoSlide250503_CETC.pdf)\] \[[Replication codes](#)\]
+  \[[Slides](GombergHoshinoSlide250503_CETC.pdf)\] \[[Replication codes](#)\]
 
 * [Rational Inattention and Endogenous Volatility: A Large Deviation Approach](HoshinoUi/HoshinoUi20251120.pdf) (with Takashi Ui)  
   \[[Slides](HoshinoUi/StatMechRI_BRIC.pdf)\]  
