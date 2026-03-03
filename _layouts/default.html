@@ -104,12 +104,16 @@
     }
 
     .upcoming-list {
-      margin: 6px 0 0 30px;
+      margin: 8px 0 16px 35px; /* Added more left margin (35px) and bottom spacing */
       padding: 0;
+      list-style-type: disc;   /* This ensures the bullets appear */
     }
-
-    .upcoming-list li { margin-bottom: 3px; }
-
+    
+    .upcoming-list li { 
+      margin-bottom: 5px; 
+      display: list-item;      /* Ensures it behaves like a standard list */
+    }
+    
     /* Divider */
     hr {
       border: none;
