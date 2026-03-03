@@ -51,7 +51,7 @@ title: Home
 * Recursive Rational Inattention Is Entropic (with Henrique De Oliveira)  
   \[[Slides](slides/DeoliveiraHoshino_StonyBrook.pdf)\]
 
-* [Rational Inattention in Games](papers/hoshinoJMP.pdf)  
+* [Rational Inattention in Games](papers/HoshinoJMP.pdf)  
   A part of this paper is subsumed by the joint work with Takashi Ui.
 
 ---
