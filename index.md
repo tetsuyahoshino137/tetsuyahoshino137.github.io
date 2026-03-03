@@ -18,7 +18,7 @@ title: Home
       </li>
       <li>
         <span class="icon">📄</span>
-        <a href="{{ site.cv }}">CV (December 2025)</a>
+        <span class="red">\[[CV (December 2025)](tetsuya_hoshino_cv20251211)\]</span>
       </li>
     </ul>
 
