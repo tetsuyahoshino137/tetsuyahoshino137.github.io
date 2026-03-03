@@ -10,14 +10,14 @@ title: Home
     <p>{{ site.position }}</p>
     <ul>
       <li>
-        <strong style="margin-right: 5px;">Email:</strong>
+        <strong style="margin-right: 5px;"><a href="TetsuyaHoshinoCV251211.pdf">CV (December 2025)</a></strong>
+      </li>
+      <li>
+        <strong style="margin-right: 2px;">Email:</strong>
         <span>
           {{ site.email | replace: "@", "[at]" }}
           <button class="copy-btn" onclick="navigator.clipboard.writeText('{{ site.email }}')">Copy</button>
         </span>
-      </li>
-      <li>
-        <strong style="margin-right: 5px;"><a href="TetsuyaHoshinoCV251211.pdf">CV (December 2025)</a></strong>
       </li>
     </ul>
 
