@@ -18,7 +18,7 @@ title: Home
       </li>
       <li>
         <span class="icon">📄</span>
-        [<a href="TetsuyaHoshinoCV251211.pdf">CV (December 2025)</a>]
+        <a href="TetsuyaHoshinoCV251211.pdf">CV (December 2025)</a>
       </li>
     </ul>
 
