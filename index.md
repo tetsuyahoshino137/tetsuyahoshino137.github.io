@@ -13,7 +13,7 @@ title: Home
         <strong style="margin-right: 5px;"><a href="TetsuyaHoshinoCV251211.pdf">CV (December 2025)</a></strong>
       </li>
       <li>
-        <strong style="margin-right: 2px;">Email:</strong>
+        <strong style="margin-right: 5px;">Email:</strong>
         <span>
           {{ site.email | replace: "@", "[at]" }}
           <button class="copy-btn" onclick="navigator.clipboard.writeText('{{ site.email }}')">Copy</button>
