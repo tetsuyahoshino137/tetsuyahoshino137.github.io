@@ -21,12 +21,11 @@ title: Home
       </li>
     </ul>
 
-    <strong class="upcoming-title">Upcoming Seminars/Conferences:</strong>
-    <ul class="upcoming-list">
-      <li>Seoul National University (February 13)</li>
-      <li>CAU–NTU Conference at Chung-Ang University (May 28)</li>
-      <li>Keio University (June 26)</li>
-    </ul>
+    **Upcoming Seminars/Conferences:**
+    
+    - Seoul National University (February 13)
+    - CAU–NTU Conference at Chung-Ang University (May 28)
+    - Keio University (June 26)
   </div>
 </div>
 
