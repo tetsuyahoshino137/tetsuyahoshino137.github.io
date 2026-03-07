@@ -26,6 +26,7 @@ title: Home
 * Seoul National University (February 13)  
 * CAU–NTU Conference at Chung-Ang University (May 28)  
 * Keio University (June 26)
+* CT Workshop at Doshisha University (July 18)
 
 ---
 
