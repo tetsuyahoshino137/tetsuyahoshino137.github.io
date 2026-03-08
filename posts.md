@@ -12,6 +12,6 @@ permalink: /posts/
 <ul class="jp-posts">
   <li>
     <span class="post-date">2026-03-08</span>
-    <span class="post-title"><a href="{{ '/日本語/youtubeの話/' | relative_url }}">youtubeの話</a></span>
+    <span class="post-title"><a href="{{ '/日本語/YouTubeの話/' | relative_url }}">YouTubeの話</a></span>
   </li>
 </ul>
