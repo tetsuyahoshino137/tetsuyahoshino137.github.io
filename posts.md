@@ -10,5 +10,5 @@ permalink: /posts/
 研究等についてはこちらのページをご覧ください。また、講義資料は京都大学のシステム（KULASISやPandA）で配布しています。</p>
 
 <ul class="jp-posts">
-  <li><span class="post-date">2026-03-08</span><span class="post-title">YouTubeの話</span></li>
+  <li><span class="post-date">2026-03-08</span><span class="post-title">YouTubeの話（随時更新）</span></li>
 </ul>
