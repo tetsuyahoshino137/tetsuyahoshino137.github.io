@@ -204,7 +204,7 @@
     }
   </style>
 </head>
-<body{% if page.title == 'youtubeの話' %} class="youtube-post-page"{% endif %}>
+<body{% if page.url == '/posts/' or page.url == '/posts' or page.url contains '/日本語/' %} class="post-page"{% endif %}>
 
   <header>
     <div class="site-title">{{ site.title }}</div>
