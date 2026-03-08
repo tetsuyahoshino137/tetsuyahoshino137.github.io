@@ -1,0 +1,16 @@
+diff --git a//Users/tetsuyahoshino/tetsuyahoshino137.github.io/youtube-post.md b//Users/tetsuyahoshino/tetsuyahoshino137.github.io/youtube-post.md
+new file mode 100644
+--- /dev/null
++++ b//Users/tetsuyahoshino/tetsuyahoshino137.github.io/youtube-post.md
+@@ -0,0 +1,11 @@
++---
++layout: default
++title: youtubeの話
++permalink: /日本語/youtubeの話/
++---
++
++## youtubeの話
++
++このページは、`日本語` ページの投稿リンクから遷移する本文ページです。
++
++ここに投稿本文を追記してください。
