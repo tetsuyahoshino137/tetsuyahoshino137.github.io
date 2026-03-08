@@ -23,10 +23,10 @@ title: Home
 
 <p class="upcoming-title"><strong>Upcoming Seminars and Conferences:</strong></p>
 <ul class="upcoming-list">
-  <li>Seoul National University (February 13)</li>
-  <li>CAU-NTU Conference at Chung-Ang University (May 28)</li>
-  <li>Keio University (June 26)</li>
-  <li>CT Workshop at Doshisha University (July 18)</li>
+  <li>Seoul National University (2026-02-13)</li>
+  <li>CAU-NTU Conference at Chung-Ang University (2026-05-28)</li>
+  <li>Keio University (2026-06-26)</li>
+  <li>CT Workshop at Doshisha University (2026-07-18)</li>
 </ul>
 
 ---
