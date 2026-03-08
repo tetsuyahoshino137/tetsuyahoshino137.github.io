@@ -161,12 +161,41 @@
     .journal { color: #c0392b; }
     .journal a { color: #c0392b; }
 
+
+    .jp-posts {
+      list-style: none;
+      padding: 0;
+      margin: 12px 0 0 0;
+    }
+
+    .jp-posts li {
+      display: flex;
+      gap: 14px;
+      align-items: baseline;
+      border-bottom: 1px solid #ececec;
+      padding: 8px 0;
+      margin: 0;
+    }
+
+    .post-date {
+      color: #666;
+      font-size: 0.95em;
+      min-width: 92px;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .post-title {
+      color: #222;
+    }
+    
     /* Mobile */
     @media (max-width: 600px) {
       header { padding: 12px 16px; }
       main { padding: 0 16px; margin: 24px auto; }
       .profile { flex-direction: column; gap: 20px; }
       .profile img { width: 150px; height: 195px; }
+      .jp-posts li { flex-direction: column; gap: 2px; }
+      .post-date { min-width: 0; }
     }
   </style>
 </head>
@@ -177,7 +206,8 @@
     <nav>
       <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
       <span class="sep">·</span>
-      <a href="{{ '/posts' | relative_url }}" {% if page.url == '/posts' or page.url == '/posts/' %}class="active"{% endif %}>Posts</a>
+      <a href="{{ '/posts' | relative_url }}" {% if page.url == '/posts' or page.url == '/posts/' %}class="active"{% endif %}>日本語</a>
+    </nav>
     </nav>
   </header>
 
