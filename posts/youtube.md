@@ -1,7 +1,7 @@
 ---
 layout: default
-title: youtubeの話
-permalink: /日本語/youtubeの話/
+title: YouTubeの話
+permalink: /日本語/YouTubeの話/
 ---
 
 ## YouTubeの話（随時更新）
