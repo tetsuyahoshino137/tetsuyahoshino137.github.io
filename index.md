@@ -21,21 +21,13 @@ title: Home
   </div>
 </div>
 
-<<<<<<< HEAD
-**Upcoming Seminars/Conferences:**
-
-* Seoul National University (February 13)  
-* CAU–NTU Conference at Chung-Ang University (May 28)  
-* Keio University (June 26)
-* CT Workshop at Doshisha University (July 18)
-=======
 <p class="upcoming-title"><strong>Upcoming Seminars and Conferences:</strong></p>
 <ul class="upcoming-list">
   <li>Seoul National University (February 13)</li>
   <li>CAU-NTU Conference at Chung-Ang University (May 28)</li>
   <li>Keio University (June 26)</li>
+  <li>CT Workshop at Doshisha University (July 18)</li>
 </ul>
->>>>>>> dca0818 (Simplify seminars list layout)
 
 ---
 
