@@ -132,13 +132,14 @@
     }
 
     main ul {
-      padding-left: 20px;
+      padding-left: 20px;   /* ← 好みに応じて 14–22px */
     }
-    
+
+    /* Tighten markdown list spacing in Working Papers / Publications */
     main li {
       margin-bottom: 8px;
     }
-    
+
     main li p {
       margin: 0;
     }
@@ -160,7 +161,6 @@
     .red, .red a { color: #c0392b; }
     .journal { color: #c0392b; }
     .journal a { color: #c0392b; }
-
 
     .jp-posts {
       list-style: none;
@@ -188,11 +188,11 @@
       color: #222;
     }
 
-    .small-bullet-text ul li {
+    .post-page main ul li {
       font-size: 0.92em;
       line-height: 1.35;
     }
-    
+
     /* Mobile */
     @media (max-width: 600px) {
       header { padding: 12px 16px; }
@@ -204,7 +204,7 @@
     }
   </style>
 </head>
-<body>
+<body{% if page.title == 'youtubeの話' %} class="youtube-post-page"{% endif %}>
 
   <header>
     <div class="site-title">{{ site.title }}</div>
@@ -212,7 +212,6 @@
       <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
       <span class="sep">·</span>
       <a href="{{ '/posts' | relative_url }}" {% if page.url == '/posts' or page.url == '/posts/' %}class="active"{% endif %}>日本語</a>
-    </nav>
     </nav>
   </header>
 
