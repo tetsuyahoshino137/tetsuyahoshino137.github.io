@@ -36,7 +36,7 @@ title: Home
 - [Elections with Opinion Polls: Information Acquisition and Aggregation](papers/GombergHoshino250408.pdf) (with Andrei Gomberg)  
   [[Slides](slides/GombergHoshino_CETC.pdf)] [[Replication Codes](https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing)]
 
-- [Rational Inattention and Endogenous Volatility: A Large Deviation Approach](papers/HoshinoUi251120.pdf) (with Takashi Ui)  
+- Rational Inattention and Endogenous Volatility: A Large Deviation Approach (with Takashi Ui)  
   [[Slides](slides/HoshinoUi_BRIC.pdf)]  
   Presented at Seoul National University (February 13)
 
