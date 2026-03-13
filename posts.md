@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 日本語
+title: Posts
 permalink: /posts/
 ---
 
-<h2>日本語</h2>
+<h2>Posts</h2>
 <p>研究・教育・日常について、日本語で短いメモをまとめるページです。</p>
 
 <ul class="jp-posts">
