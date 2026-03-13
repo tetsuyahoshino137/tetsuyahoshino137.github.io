@@ -37,17 +37,17 @@ title: Home
   [Slides](slides/GombergHoshino_CETC.pdf) | [Replication Codes](https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing)
 
 - Rational Inattention and Endogenous Volatility: A Large Deviation Approach (with Takashi Ui)  
-  [[Slides](slides/HoshinoUi_BRIC.pdf)]  
+  [Slides](slides/HoshinoUi_BRIC.pdf)
   Presented at Seoul National University (February 13)
 
 - [Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza](papers/HoshinoKamada260125.pdf) (with Takuma Kamada)
 
 - [Two-Sided Markets and Restricted Boltzmann Machines](papers/HoshinoPancs250513.pdf) (with Romans Pancs)  
-  [[Slides](slides/HoshinoPancs_EconometricSocietyAIML.pdf)] [[Replication Codes](https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing)]  
+  [Slides](slides/HoshinoPancs_EconometricSocietyAIML.pdf) | [Replication Codes](https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing)
   <span class="red">R&R at *Management Science*</span>
 
 - Recursive Rational Inattention Is Entropic (with Henrique De Oliveira)  
-  [[Slides](slides/DeoliveiraHoshino_EconometricSociety.pdf)]
+  [Slides](slides/DeoliveiraHoshino_EconometricSociety.pdf)
 
 - [Rational Inattention in Games](papers/HoshinoJMP.pdf)  
   Partially subsumed by joint work with Takashi Ui.
