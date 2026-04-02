@@ -27,7 +27,7 @@ title: Home
   <li>CAU-NTU Conference at Chung-Ang University (2026-05-28)</li>
   <li>Waseda University (2026-06-23)</li>
   <li>Keio University (2026-06-26)</li>
-  <li>CT Workshop at Doshisha University (2026-07-18)</li>
+  <li>Contract Theory Workshop at Doshisha University (2026-07-18)</li>
 </ul>
 
 ---
