@@ -34,39 +34,37 @@ title: Home
 
 ## Working Papers
 
-- Elections with Opinion Polls: Information Acquisition and Aggregation (with Andrei Gomberg)  
-  &emsp; [Paper](papers/GombergHoshino250408.pdf) | [Slides](slides/GombergHoshino_CETC.pdf) | [Replication Codes](https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing)
+- [Elections with Opinion Polls: Information Acquisition and Aggregation](papers/GombergHoshino250408.pdf) (with Andrei Gomberg)  
+  &emsp; [Slides](slides/GombergHoshino_CETC.pdf) | [Replication Codes](https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing)
 
 - Rational Inattention and Endogenous Volatility: A Large Deviation Approach (with Takashi Ui)  
-  &emsp; [Slides](slides/HoshinoUi_BRIC.pdf)  
+  [Slides](slides/HoshinoUi_BRIC.pdf)  
   &emsp; Presented at Seoul National University (2026-02-13)
 
-- Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza (with Takuma Kamada)  
-  &emsp; [Paper](papers/HoshinoKamada260125.pdf)
+- [Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza](papers/HoshinoKamada260125.pdf) (with Takuma Kamada)
 
-- Two-Sided Markets and Restricted Boltzmann Machines (with Romans Pancs)  
-  [Paper](papers/HoshinoPancs250513.pdf) | [Slides](slides/HoshinoPancs_EconometricSocietyAIML.pdf) | [Replication Codes](https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing)  
+- [Two-Sided Markets and Restricted Boltzmann Machines](papers/HoshinoPancs250513.pdf) (with Romans Pancs)  
+  &emsp; [Slides](slides/HoshinoPancs_EconometricSocietyAIML.pdf) | [Replication Codes](https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing)  
   <span class="red">R&R at *Management Science*</span>
 
 - Recursive Rational Inattention Is Entropic (with Henrique De Oliveira)  
-  [Slides](slides/DeoliveiraHoshino_EconometricSociety.pdf)
+  &emsp; [Slides](slides/DeoliveiraHoshino_EconometricSociety.pdf)
 
-- Rational Inattention in Games  
-  [Paper](papers/HoshinoJMP.pdf)  
-  Partially subsumed by joint work with Takashi Ui.
+- [Rational Inattention in Games](papers/HoshinoJMP.pdf)  
+  &emsp; Partially subsumed by joint work with Takashi Ui.
 
 ---
 
 ## Publications
 
 - [Bargaining and Information Acquisition](papers/ChatterjeeDongHoshinoAEJ240904.pdf) (with Kalyan Chatterjee and Miaomiao Dong)  
-  <span class="red">[*American Economic Journal: Micro*](https://www.aeaweb.org/articles?id=10.1257/mic.20240034) (2025)</span>
+  &emsp; <span class="red">[*American Economic Journal: Micro*](https://www.aeaweb.org/articles?id=10.1257/mic.20240034) (2025)</span>
 
 - [Multi-Agent Persuasion: Leveraging Strategic Uncertainty](papers/HoshinoIER210901.pdf)  
-  <span class="red">[*International Economic Review*](https://onlinelibrary.wiley.com/doi/10.1111/iere.12546) (2022)</span>
+  &emsp; <span class="red">[*International Economic Review*](https://onlinelibrary.wiley.com/doi/10.1111/iere.12546) (2022)</span>
 
 - [Third-Party Policing Approaches against Organized Crime](papers/HoshinoKamadaJQC200601.pdf) (with Takuma Kamada)  
-  <span class="red">[*Journal of Quantitative Criminology*](https://link.springer.com/article/10.1007/s10940-020-09466-6) (2021)</span>
+  &emsp; <span class="red">[*Journal of Quantitative Criminology*](https://link.springer.com/article/10.1007/s10940-020-09466-6) (2021)</span>
 
 - [Repeated Coordination with Private Learning](papers/BasuChatterjeeHoshinoTamuzJET200731.pdf) (with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz)  
-  <span class="red">[*Journal of Economic Theory*](https://www.sciencedirect.com/science/article/abs/pii/S0022053120300995) (2020)</span>
+  &emsp; <span class="red">[*Journal of Economic Theory*](https://www.sciencedirect.com/science/article/abs/pii/S0022053120300995) (2020)</span>
