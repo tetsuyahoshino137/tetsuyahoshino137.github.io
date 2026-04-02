@@ -34,14 +34,15 @@ title: Home
 
 ## Working Papers
 
-- [Elections with Opinion Polls: Information Acquisition and Aggregation](papers/GombergHoshino250408.pdf) (with Andrei Gomberg)  
-  &emsp; [Slides](slides/GombergHoshino_CETC.pdf) | [Replication Codes](https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing)
+- Elections with Opinion Polls: Information Acquisition and Aggregation (with Andrei Gomberg)
+  &emsp; [Paper](papers/GombergHoshino250408.pdf) | [Slides](slides/GombergHoshino_CETC.pdf) | [Replication Codes](https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing)
 
 - Rational Inattention and Endogenous Volatility: A Large Deviation Approach (with Takashi Ui)  
-  [Slides](slides/HoshinoUi_BRIC.pdf)  
-  Presented at Seoul National University (2026-02-13)
+  &emsp; [Slides](slides/HoshinoUi_BRIC.pdf)  
+  &emsp; Presented at Seoul National University (2026-02-13)
 
-- [Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza](papers/HoshinoKamada260125.pdf) (with Takuma Kamada)
+- Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza (with Takuma Kamada)
+  &emsp; [Paper](papers/HoshinoKamada260125.pdf)
 
 - [Two-Sided Markets and Restricted Boltzmann Machines](papers/HoshinoPancs250513.pdf) (with Romans Pancs)  
   [Slides](slides/HoshinoPancs_EconometricSocietyAIML.pdf) | [Replication Codes](https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing)  
