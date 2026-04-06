@@ -43,7 +43,7 @@ title: Home
 
 - [Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza](papers/HoshinoKamada260125.pdf) (with Takuma Kamada)
 
-- [Two-Sided Markets and Restricted Boltzmann Machines](papers/HoshinoPancs260406.pdf) (with Romans Pancs)  
+- [Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines](papers/HoshinoPancs260406.pdf) (with Romans Pancs)  
   [Slides](slides/HoshinoPancs_EconometricSocietyAIML.pdf) | [Replication Codes](https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing)  
   <span class="red">R&R at *Management Science*</span>
 
