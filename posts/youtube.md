@@ -71,7 +71,7 @@ YouTubeで勉強なんて当たり前になりました。勉強になる動画�
 
 線形代数は最初は簡単（？）かもしれませんが、行列式が出てきた辺りから怪しくなり、固有値やベクトル空間の公理を見て嫌になった方も多いのではないでしょうか。線形代数では[3Blue1Brownさんの『線形代数のエッセンス』](https://youtu.be/fNk_zzaMoSs)がおすすめです（[日本語版](https://www.youtube.com/watch?v=ZXuZHNjS2tA)）。行列式など一見わかりにくい概念も視覚的に説明しています。
 
-線形代数には多くの優良な解説があります。特に、[ヨビノリさんのシリーズ](https://youtu.be/svm8hlhF8PA?si=Bupn7SvYGn5k9r22)や[アイシア＝ソリッドさんのシリーズ](https://youtu.be/wVipLySksnE?si=TLJ4G9tr8WmIDB3Q)もおすすめです。[Ufoliumさんのシリーズ](https://youtu.be/SNCHDPwQGFw)もおすすめですが、一部有料です。</small>
+線形代数には他にも多くわかりやすい解説があります。特に、[ヨビノリさんのシリーズ](https://youtu.be/svm8hlhF8PA?si=Bupn7SvYGn5k9r22)や[アイシア＝ソリッドさんのシリーズ](https://youtu.be/wVipLySksnE?si=TLJ4G9tr8WmIDB3Q)もおすすめです。[Ufoliumさんのシリーズ](https://youtu.be/SNCHDPwQGFw)もおすすめですが、一部有料です。
 
 ---
 
