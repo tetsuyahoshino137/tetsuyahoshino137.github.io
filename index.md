@@ -42,6 +42,7 @@ title: Home
   Presented at Seoul National University (2026-02-13)
 
 - [Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza](papers/HoshinoKamada260125.pdf) (with Takuma Kamada)
+  <span class="red">R&R at *Journal of Comparative Economics*</span>
 
 - [Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines](papers/HoshinoPancs260406.pdf) (with Romans Pancs)  
   [Slides](slides/HoshinoPancs_EconometricSocietyAIML.pdf) | [Replication Codes](https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing)  
