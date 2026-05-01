@@ -39,7 +39,6 @@ title: Home
 
 - Rational Inattention and Endogenous Volatility: A Large Deviation Approach (with Takashi Ui)  
   [Slides](slides/HoshinoUi_BRIC.pdf)  
-  Presented at Seoul National University (2026-02-13)
 
 - [Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza](papers/HoshinoKamada260125.pdf) (with Takuma Kamada)  
   <span class="red">R&R at *Journal of Comparative Economics*</span>
