@@ -27,7 +27,7 @@ title: Home
   <li>Waseda University (2026-06-23)</li>
   <li>Keio University (2026-06-26)</li>
   <li>Contract Theory Workshop at Doshisha University (2026-07-18)</li>
-  <li>Workshop on Search and Platform (2026-07-??)</li>
+  <li>Workshop on Search and Platform (2026-07-23)</li>
 </ul>
 
 ---
