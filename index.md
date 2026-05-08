@@ -23,6 +23,7 @@ title: Home
 
 <p class="upcoming-title"><strong>Upcoming Seminars and Conferences:</strong></p>
 <ul class="upcoming-list">
+  <li>Seoul National University (26-02-13)</li>
   <li>CAU-NTU Conference at Chung-Ang U. (26-05-28)</li>
   <li>Waseda U. (26-06-23)</li>
   <li>Keio U. (26-06-26)</li>
