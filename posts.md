@@ -7,7 +7,7 @@ permalink: /posts/
 <h2>日本語</h2>
 <p>暇なときに、どうでもよい話を書いています。</p>
 
-<p>研究等については[こちらのページ](https://tetsuyahoshino.com)をご覧ください。また、講義資料は京都大学のシステム KULMS で配布しています。</p>
+<p>研究等については<a href="https://tetsuyahoshino.com">こちらのページ</a>をご覧ください。また、講義資料は京都大学のシステム KULMS で配布しています。</p>
 
 <ul class="jp-posts">
   <li>
