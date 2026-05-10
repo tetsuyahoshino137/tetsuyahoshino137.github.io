@@ -9,7 +9,7 @@ title: Home
     <h1>{{ site.name }}</h1>
     <p>{{ site.position }}</p>
     <ul>
-      <li><strong><a href="TetsuyaHoshinoCV251211.pdf">CV (December 2025)</a></strong></li>
+      <li><strong><a href="TetsuyaHoshinoCV260510.pdf">CV (May 2026)</a></strong></li>
       <li>
         <strong>Email:</strong>
         <span>
