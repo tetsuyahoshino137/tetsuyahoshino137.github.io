@@ -35,7 +35,7 @@ title: Home
 ## Working Papers
 
 - [Elections with Opinion Polls: Information Acquisition and Aggregation](papers/GombergHoshino250408.pdf) (with Andrei Gomberg)  
-  [Slides](slides/GombergHoshino_CETC.pdf) | [Replication Codes](https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing)
+  [Slides](slides/GombergHoshino_CETC.pdf) | [Codes](https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing)
 
 - Rational Inattention and Endogenous Volatility: A Large Deviation Approach (with Takashi Ui)  
   [Slides](slides/HoshinoUi_BRIC.pdf)  
@@ -44,7 +44,7 @@ title: Home
   <span class="red">R&R at *Journal of Comparative Economics*</span>
 
 - [Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines](papers/HoshinoPancs260406.pdf) (with Romans Pancs)  
-  [Slides](slides/HoshinoPancs_EconometricSocietyAIML.pdf) | [Replication Codes](https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing)  
+  [Slides](slides/HoshinoPancs_EconometricSocietyAIML.pdf) | [Codes](https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing)  
   <span class="red">R&R at *Management Science*</span>
 
 - Recursive Rational Inattention Is Entropic (with Henrique De Oliveira)  
