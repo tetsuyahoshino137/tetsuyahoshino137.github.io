@@ -23,11 +23,11 @@ title: Home
 
 <p class="upcoming-title"><strong>Upcoming Seminars and Conferences:</strong></p>
 <ul class="upcoming-list">
-  <li>CAU-NTU Conference (26-05-28)</li>
+  <li>CAU-NTU Conference @ Chung-Ang U. (26-05-28)</li>
   <li>Waseda U. (26-06-23)</li>
   <li>Keio U. (26-06-26)</li>
-  <li>Contract Theory Workshop (26-07-18)</li>
-  <li>Workshop on Search and Platform (26-07-23)</li>
+  <li>Contract Theory Workshop @ Doshisha U. (26-07-18)</li>
+  <li>Workshop on Search and Platform @ Kyoto U. (26-07-23)</li>
 </ul>
 
 ---
