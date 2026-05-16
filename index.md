@@ -13,7 +13,7 @@ title: Home
       <li>
         <strong>Email:</strong>
         <span>
-          {{ site.email | replace: "@", "[at]" }}
+                      <code>{{ site.email | replace: "@", "[at]" }}</code>
           <button class="copy-btn" onclick="navigator.clipboard.writeText('{{ site.email }}')">Copy</button>
         </span>
       </li>
