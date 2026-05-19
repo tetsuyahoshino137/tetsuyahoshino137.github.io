@@ -24,7 +24,7 @@ title: Home
 <p class="upcoming-title"><strong>Upcoming Seminars and Conferences:</strong></p>
 <ul class="upcoming-list">
   <li>CAU-NTU Conference @ Chung-Ang U. (26-05-28)</li>
-  <li>Korea Info. Society Development Institute (26-06-18)</li>
+  <li>KISDI (26-06-18)</li>
   <li>Waseda U. (26-06-23)</li>
   <li>Keio U. (26-06-26)</li>
   <li>Contract Theory Workshop @ Doshisha U. (26-07-18)</li>
