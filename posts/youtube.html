@@ -4,18 +4,6 @@ title: YouTubeの話
 permalink: /posts/youtube/
 ---
 
-
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>YouTubeの話</title>
-<!--
-  欧文: Nunito（丸みのあるゴシック、柔らかい印象）
-  日本語: M PLUS Rounded 1c（丸ゴシック、親しみやすい）
-  UI補助: Nunito をそのまま使用
--->
 <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;1,400&family=M+PLUS+Rounded+1c:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -31,10 +19,6 @@ permalink: /posts/youtube/
     background: #fafaf8;
     padding: 2rem 1rem 4rem;
   }
-
-  /* 日本語フォントは欧文より視覚的に大きく見えることがあるため
-     日本語文字の font-size を若干下げる（CSS unicode-range では制御できないが
-     M PLUS Rounded 1c は欧文より適切にバランスされている） */
 
   .page {
     max-width: 720px;
@@ -226,7 +210,6 @@ permalink: /posts/youtube/
   }
 
   /* ===== チャンネルリスト ===== */
-  /* 元ファイルと同じく <li> フラットな段落スタイル */
   .channel-list {
     list-style: none;
     padding: 0;
@@ -267,8 +250,7 @@ permalink: /posts/youtube/
   .back a { color: #999; text-decoration: none; }
   .back a:hover { color: #2a6496; }
 </style>
-</head>
-<body>
+
 <div class="page">
 
 <!-- ヘッダー -->
@@ -363,14 +345,12 @@ permalink: /posts/youtube/
   <div class="note">なんでもかんでも「微分してゼロ」で解けるわけではありません。大学の先生は「微分してゼロ」では解けない例をテストによく出します。意地悪ですね。</div>
   <p>なぜ「微分してゼロ」で解けるのでしょうか？理由は知らないけどなんとなく使っているという方には以下の動画がおすすめです。
   <div class="video-link">
-    <div class="vl-title">
-      <a href="https://youtu.be/vAwqZmwf4W8" target="_blank">ヨビノリ『ラグランジュの未定乗数法の気持ち』</a>・<a href="https://youtu.be/bdWTCq98H5c" target="_blank">『制約付き最適化問題』</a></div><div class="vl-desc">なぜ「微分してゼロ」で解けるのかはもちろん、制約条件があってもなぜ同様の方法が使えるのかも解説しています。
-    </div>
+    <div class="vl-title"><a href="https://youtu.be/vAwqZmwf4W8" target="_blank">ヨビノリ『ラグランジュの未定乗数法の気持ち』</a>・<a href="https://youtu.be/bdWTCq98H5c" target="_blank">『制約付き最適化問題』</a></div>
+    <div class="vl-desc">なぜ「微分してゼロ」で解けるのかはもちろん、制約条件があってもなぜ同様の方法が使えるのかも解説しています。</div>
   </div>
   <div class="video-link">
-    <div class="vl-title">
-      <a href="https://youtu.be/2-E4XiHQEcM" target="_blank">アイシア＝ソリッド『あの計算の意味、説明できますか？』</a></div><div class="vl-desc">こちらもラグランジュの未定乗数法の意味を教えてくれる動画です。
-    </div>
+    <div class="vl-title"><a href="https://youtu.be/2-E4XiHQEcM" target="_blank">アイシア＝ソリッド『あの計算の意味、説明できますか？』</a></div>
+    <div class="vl-desc">こちらもラグランジュの未定乗数法の意味を教えてくれる動画です。</div>
   </div>
 </div>
 
@@ -379,7 +359,8 @@ permalink: /posts/youtube/
   <h2>トポロジー（位相）</h2>
   <p>経済学でもトポロジー（位相）という数学が登場します。トポロジーはよく「ドーナツとマグカップを同じとみなす数学」と紹介され、面白そうな反面、「だから何なの？」「経済学と関係あるの？」と思う方もいるでしょう。</p>
   <div class="video-link">
-    <div class="vl-title"><a href="https://youtu.be/IQqtsm-bBRU" target="_blank">3Blue1Brown『トポロジーって何？』</a>（<a href="https://youtu.be/qAgungg5jpM" target="_blank">日本語版</a>）</div><div class="vl-desc">具体的な問題への応用を通してトポロジーの有用性を垣間見せてくれる動画です。同様のアイデア（不動点定理）は経済学ではナッシュ均衡の存在証明など至るところで応用されています。トポロジーは抽象的ですが、具体的な応用があるとわかるとモチベーションも湧きますね。</div>
+    <div class="vl-title"><a href="https://youtu.be/IQqtsm-bBRU" target="_blank">3Blue1Brown『トポロジーって何？』</a>（<a href="https://youtu.be/qAgungg5jpM" target="_blank">日本語版</a>）</div>
+    <div class="vl-desc">具体的な問題への応用を通してトポロジーの有用性を垣間見せてくれる動画です。同様のアイデア（不動点定理）は経済学ではナッシュ均衡の存在証明など至るところで応用されています。トポロジーは抽象的ですが、具体的な応用があるとわかるとモチベーションも湧きますね。</div>
   </div>
   <p>この動画では、問題をメビウスの帯に言い換えることで解決しました。驚くべきことに、似たアイデアは投票の問題でも使われています。<a href="https://youtu.be/v5ev-RAg7Xs" target="_blank">Physics for the Birdsの動画</a>をご覧ください。</p>
   <p>モチベーションがわかっても、トポロジーが抽象的で取っつきにくいのは変わりありません。結局は慣れだと思いますが、抽象論に辟易している方には、<a href="https://youtu.be/CrkAYD5ua6o" target="_blank">MathneQさん</a>や<a href="https://youtu.be/9LZzyNQlEdQ" target="_blank">趣味の大学数学さん</a>がおすすめです。</p>
@@ -457,5 +438,3 @@ permalink: /posts/youtube/
 <div class="back"><a href="/posts/">← 投稿一覧に戻る</a></div>
 
 </div>
-</body>
-</html>
