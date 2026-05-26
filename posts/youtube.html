@@ -1,0 +1,484 @@
+---
+layout: default
+title: YouTubeの話
+permalink: /posts/youtube/
+---
+
+<style>
+  .yt-intro {
+    margin-bottom: 2em;
+  }
+
+  .yt-intro p {
+    margin: 0 0 0.9em 0;
+    line-height: 1.7;
+  }
+
+  .yt-intro ul {
+    margin: 0.4em 0 0.9em 1.4em;
+    padding: 0;
+  }
+
+  .yt-intro ul li {
+    margin-bottom: 0.5em;
+    line-height: 1.7;
+  }
+
+  /* TOC */
+  .yt-toc {
+    border: 1px solid #ddd;
+    border-left: 4px solid #4a7ab5;
+    padding: 1em 1.4em;
+    margin: 1.5em 0 2em 0;
+    background: #f9f9f9;
+    display: inline-block;
+    min-width: 240px;
+  }
+
+  .yt-toc-title {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    font-size: 0.95em;
+    color: #444;
+  }
+
+  .yt-toc ol {
+    margin: 0;
+    padding-left: 1.4em;
+  }
+
+  .yt-toc ol li {
+    margin-bottom: 0.3em;
+    font-size: 0.93em;
+  }
+
+  .yt-toc a {
+    color: #4a7ab5;
+    text-decoration: none;
+  }
+
+  .yt-toc a:hover {
+    text-decoration: underline;
+  }
+
+  /* Section headings */
+  .yt-section {
+    margin: 2.4em 0 0 0;
+  }
+
+  .yt-section h2 {
+    font-size: 1.25em;
+    border-bottom: 2px solid #4a7ab5;
+    padding-bottom: 0.25em;
+    margin-bottom: 0.8em;
+    color: #1a1a1a;
+  }
+
+  .yt-section p {
+    margin: 0 0 0.9em 0;
+    line-height: 1.7;
+  }
+
+  .yt-section ul {
+    margin: 0.4em 0 0.9em 1.4em;
+    padding: 0;
+  }
+
+  .yt-section ul li {
+    margin-bottom: 0.5em;
+    line-height: 1.7;
+  }
+
+  /* Video card */
+  .yt-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.9em;
+    background: #f5f8fd;
+    border: 1px solid #d5e2f3;
+    border-radius: 4px;
+    padding: 0.7em 1em;
+    margin: 0.7em 0;
+  }
+
+  .yt-card-icon {
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    background: #ff0000;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .yt-card-icon svg {
+    width: 16px;
+    height: 16px;
+    fill: white;
+  }
+
+  .yt-card-body {
+    font-size: 0.94em;
+    line-height: 1.6;
+  }
+
+  .yt-card-body strong {
+    display: block;
+    margin-bottom: 0.15em;
+  }
+
+  .yt-card-body a {
+    color: #4a7ab5;
+  }
+
+  /* Channel list */
+  .yt-channel-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.5em 0;
+  }
+
+  .yt-channel-list li {
+    border-bottom: 1px solid #eee;
+    padding: 0.65em 0;
+    line-height: 1.65;
+  }
+
+  .yt-channel-list li:last-child {
+    border-bottom: none;
+  }
+
+  .yt-channel-list li strong {
+    display: inline;
+  }
+
+  /* Note callout */
+  .yt-note {
+    background: #fffbea;
+    border-left: 4px solid #e5c000;
+    padding: 0.6em 1em;
+    margin: 0.7em 0;
+    font-size: 0.93em;
+    line-height: 1.65;
+  }
+
+  /* Coming soon */
+  .yt-soon {
+    color: #888;
+    font-style: italic;
+    margin: 0.4em 0 1em 0;
+  }
+
+  /* Back link */
+  .yt-back {
+    margin-top: 3em;
+    font-size: 0.9em;
+  }
+
+  .yt-back a {
+    color: #4a7ab5;
+    text-decoration: none;
+  }
+
+  .yt-back a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<h1>YouTubeの話</h1>
+
+<div class="yt-intro">
+  <p>YouTubeで勉強なんて当たり前になりました。勉強になる動画がたくさんある一方で、インチキ動画も少なくありません。再生数が多かったり、コメント欄で絶賛されている動画にも怪しいものがあります。わかった気にさせるのはうまい一方、肝心な部分を誤魔化しているものもあります。インチキを見抜くには（動画を見る前に）内容をある程度理解していなければなりません。しかし、内容を理解していれば動画を見る必要はありません。そんなことを言うと</p>
+  <p><strong>何を見ればいいのかわからない！</strong><br>
+  と思われる方もいると思います。というわけで、おすすめの動画を紹介します。</p>
+  <ul>
+    <li>本の紹介はしません。入門書から専門書まで良書は多数ありますが、良書の紹介は多くの先生が既になされています。それに対して、動画の紹介は見かけないので、ここでは主に動画を紹介します。もちろん動画を見れば、本を読んだりして勉強する必要はないというわけではありません。実際、<a href="https://www.youtube.com/watch?v=hZuYICAEN9Y" target="_blank">3Blue1Brownでもアウトプットの重要性</a>が説かれています。ノートにまとめたり、演習問題を解いたり、友達に説明してみたり。今は一人でもAIと議論できます。</li>
+    <li>学問としての経済学に関連する動画に限定しています。</li>
+  </ul>
+</div>
+
+<div class="yt-toc">
+  <div class="yt-toc-title">目次</div>
+  <ol>
+    <li><a href="#game-theory">ゲーム理論（基本編）</a></li>
+    <li><a href="#voting">投票</a></li>
+    <li><a href="#calculus">微分積分</a></li>
+    <li><a href="#linear-algebra">線形代数</a></li>
+    <li><a href="#optimization">最適化</a></li>
+    <li><a href="#topology">トポロジー（位相）</a></li>
+    <li><a href="#probability">確率論</a></li>
+    <li><a href="#information">情報理論</a></li>
+    <li><a href="#measure">測度論・ルベーグ積分</a></li>
+    <li><a href="#presentation">研究発表</a></li>
+    <li><a href="#channels">おすすめのチャンネル</a></li>
+    <li><a href="#afterword">あとがき</a></li>
+  </ol>
+</div>
+
+<svg style="display:none">
+  <symbol id="yt-icon" viewBox="0 0 24 24">
+    <path d="M23.495 6.205a3.007 3.007 0 0 0-2.088-2.088c-1.87-.501-9.396-.501-9.396-.501s-7.507-.01-9.396.501A3.007 3.007 0 0 0 .527 6.205a31.247 31.247 0 0 0-.522 5.805 31.247 31.247 0 0 0 .522 5.783 3.007 3.007 0 0 0 2.088 2.088c1.868.502 9.396.502 9.396.502s7.506 0 9.396-.502a3.007 3.007 0 0 0 2.088-2.088 31.247 31.247 0 0 0 .5-5.783 31.247 31.247 0 0 0-.5-5.805zM9.609 15.601V8.408l6.264 3.602z"/>
+  </symbol>
+</svg>
+
+<div id="game-theory" class="yt-section">
+  <h2>ゲーム理論（基本編）</h2>
+  <p>ゲーム理論には無数の解説動画がありますが、胡散臭い動画も散見されます。「ゲーム理論でビジネスで勝つ！」なんて謳い文句も見かけます。たしかにゲーム理論が実社会に応用された例は多数ありますが、ゲーム理論は勝利の魔法ではありません。寧ろ「どう頑張っても勝てない」ことがゲーム理論で証明されることもあります。</p>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>ヨビノリ『ゲーム理論の基本』</strong>
+      囚人のジレンマやナッシュ均衡などの基本概念を丁寧に解説しています。応用例はあまり紹介されていませんが、基本を丁寧に解説されています。巷の入門動画とは一線を画す内容です。
+    </div>
+  </div>
+
+  <div class="yt-note">
+    ナッシュ均衡で有名な数学者ジョン・ナッシュの伝記的映画『ビューティフル・マインド』にはナッシュ均衡を説明するシーンがあります。なんと、この説明は間違っています。
+  </div>
+
+  <p>ヨビノリさんの動画を見て「ゲーム理論って当たり前のことを難しく言っているだけでは？」と思った方もいるかもしれません。そういう面も否定できませんが、だからといって全部そうというわけでもありません。</p>
+
+  <p>非直観的な例を挙げましょう。<strong>ブライスのパラドックス</strong>は「道路を増やすと渋滞が悪化する！？」という不思議な話です。もちろんインチキではありません。</p>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>MindYourDecisions — ブライスのパラドックス（短編）</strong>
+      実はブライスのパラドックスの背後にあるメカニズムは、囚人のジレンマのそれと似ています（強支配される戦略の消去）。こうしてみると、簡単に思えた（？）囚人のジレンマも、実は含蓄のある話だとわかるはずです。
+    </div>
+  </div>
+
+  <div class="yt-note">
+    厳密には、動画の主張は成り立ちません。つまり、ナッシュ均衡だからといって必ず「全員が新しい道を通る」とは限りません。動画の設定では「1人だけが上のルートを通り、199人が新しい道を通る」のもナッシュ均衡です。これは上のルートが強く支配されていないことが原因です。しかし、これはほんの些細なことで、混雑に影響されない道路の所要時間を少し長く（たとえば21分）にすれば、元の主張も成り立ちます。
+  </div>
+
+  <p>ブライスのパラドックスは机上の空論に聞こえるかもしれません。驚くべきことに、ブライスのパラドックスは現実でも報告されています。つまり、実際に「道路を増やすと渋滞が悪化（道路を減らすと渋滞が改善）」したのです。</p>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>Veritasium — 冒頭12分</strong>
+      現実に報告されたブライスのパラドックスの事例を解説しています。
+    </div>
+  </div>
+</div>
+
+<div id="voting" class="yt-section">
+  <h2>投票</h2>
+  <p>経済学の身近な例として投票があります。国会議員を選ぶにしても、友人とのランチの場所を決めるにしても、複数の人の意見をまとめるときは投票を使うことがあります。多くの場合は多数決を用いますが、多数決は本当に「良い」ルールなんでしょうか？実は「みんなの意見をいつでもうまくまとめられる投票ルールは存在しない」ことが証明されています（<strong>アローの不可能性定理</strong>）。</p>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>るーいのゆっくり科学『最悪の結末を生む多数決』</strong>
+      投票の不思議をわかりやすく解説しています。
+    </div>
+  </div>
+
+  <p>発展的な内容に興味のある方にはVeritasiumとPolylogもおすすめです。</p>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>Physics for the Birds — チチルニスキーの不可能性定理</strong>
+      この定理は（アローの不可能性定理とは別の設定で）やはり「みんなの意見をいつでもうまくまとめられる投票ルールは存在しない」ことを示しています。興味深いことにこの証明では<strong>メビウスの帯</strong>が重要な役割を果たします。トポロジーの面白い応用です。
+    </div>
+  </div>
+</div>
+
+<div id="calculus" class="yt-section">
+  <h2>微分積分</h2>
+  <p>微分は経済学でも必須です。ミクロ経済学では、限界代替率や限界費用などの「限界〇〇」の概念が頻繁に登場しますが、これらは微分を用いて定義されます。消費者の効用最大化問題や企業の利潤最大化・費用最小化問題といった最適化問題では、一階微分（一階条件）と二階微分（二階条件）を用いて解を求めます。マクロ経済学でも計量経済学でも微分は重要です。積分も経済学で幅広く利用されます。消費者理論では、需要曲線の下の面積から消費者余剰を計算し、生産者理論では供給曲線の上の面積から生産者余剰を求めます。これらの余剰分析は政策評価の基礎となります。</p>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>3Blue1Brown『微分積分のエッセンス』</strong>
+      最高の入門シリーズです。高校数学の復習から始まり、ε–δ論法による極限の定義、陰関数定理、テイラー展開などをカバーしています。
+    </div>
+  </div>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>ヨビノリ『各点収束と一様収束』</strong>
+      3Blue1Brownのシリーズでは関数列の収束は扱われていませんが、各点収束と一様収束の違いは混乱しがちなトピックです。このような方におすすめです。
+    </div>
+  </div>
+</div>
+
+<div id="linear-algebra" class="yt-section">
+  <h2>線形代数</h2>
+  <p>線形代数も経済学では必須です。統計学・計量経済学では線形代数の知識は不可欠ですし、効用最大化や費用最小化などの最適化問題でも微分積分と併せて使います。</p>
+  <p>線形代数は最初は簡単（？）かもしれませんが、行列式が出てきた辺りから怪しくなり、固有値やベクトル空間の公理を見て嫌になった方も多いのではないでしょうか。</p>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>3Blue1Brown『線形代数のエッセンス』（<a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HCs4zPpkgL_oaklnKTqzVPe" target="_blank">日本語版</a>）</strong>
+      行列式など一見わかりにくい概念も視覚的に説明しています。
+    </div>
+  </div>
+
+  <p>他にも多くわかりやすい解説があります。</p>
+  <ul>
+    <li>ヨビノリさんのシリーズ</li>
+    <li>アイシア＝ソリッドさんのシリーズ</li>
+    <li>Ufoliumさんのシリーズ（一部有料）</li>
+  </ul>
+</div>
+
+<div id="optimization" class="yt-section">
+  <h2>最適化</h2>
+  <p>何らかの関数を最大化・最小化することを最適化といいます。経済学では効用最大化や費用最小化など多くの問題が「ある制約の下で何かを最大化・最小化する」という最適化問題として定式化されます。便利な方法がラグランジュの未定乗数法やKKT条件です。語弊を恐れず言えば、この方法は「微分してゼロ」とおくだけなので、「よくわからないけど使っている」という方もいるかもしれません。</p>
+
+  <div class="yt-note">
+    なんでもかんでも「微分してゼロ」で解けるわけではありません。大学の先生は「微分してゼロ」では解けない例をテストによく出します。意地悪ですね。
+  </div>
+
+  <p>なぜ「微分してゼロ」で解けるのでしょうか？理由は知らないけどなんとなく使っているという方には以下をおすすめします。</p>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>ヨビノリ『ラグランジュの未定乗数法の気持ち』『制約付き最適化問題』</strong>
+    </div>
+  </div>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>アイシア＝ソリッド『あの計算の意味、説明できますか？』</strong>
+    </div>
+  </div>
+</div>
+
+<div id="topology" class="yt-section">
+  <h2>トポロジー（位相）</h2>
+  <p>経済学でもトポロジー（位相）という数学が登場します。トポロジーはよく「ドーナツとマグカップを同じとみなす数学」と紹介され、面白そうな反面、「だから何なの？」「経済学と関係あるの？」と思う方もいるでしょう。</p>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>3Blue1Brown『トポロジーって何？』（<a href="https://www.youtube.com/watch?v=OymLHBHjQK0" target="_blank">日本語版</a>）</strong>
+      具体的な問題への応用を通してトポロジーの有用性を垣間見せてくれる動画です。同様のアイデア（不動点定理）は経済学ではナッシュ均衡の存在証明など至るところで応用されています。この動画では、問題をメビウスの帯に言い換えることで解決しました。驚くべきことに、似たアイデアは投票の問題でも使われています（Physics for the Birds参照）。
+    </div>
+  </div>
+
+  <p>モチベーションがわかっても、トポロジーが抽象的で取っつきにくいのは変わりません。結局は慣れだと思いますが、抽象論に辟易している方にはMathneQさんや趣味の大学数学さんがおすすめです。</p>
+</div>
+
+<div id="probability" class="yt-section">
+  <h2>確率論</h2>
+  <p class="yt-soon">後日追加します（たぶん）。</p>
+</div>
+
+<div id="information" class="yt-section">
+  <h2>情報理論</h2>
+  <p class="yt-soon">後日追加します（たぶん）。</p>
+</div>
+
+<div id="measure" class="yt-section">
+  <h2>測度論・ルベーグ積分</h2>
+  <p>研究者志望の学生さんから「測度論やルベーグ積分は勉強した方がいいですか？」と聞かれることがあります。経済理論志望の方は勉強しておくと後々役に立つと思います。しかし、経済理論に限ってもほとんど使わない分野もありますから、興味のある分野の先生に聞いてみてください。</p>
+
+  <div class="yt-note">
+    知り合いの研究者数名にも聞いたことがありますが、専攻に関わらず全員勉強すべき、という過激派もいました。
+  </div>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>新井『イメージがわかるルベーグ測度・積分』</strong>
+      直観的なイメージを強調しつつも、硬派なスタイルの動画です。ルベーグ積分の動画には、簡単に説明しようとして内容を端折ってしまうものが多い中、新井先生の丁寧な解説は貴重です。
+    </div>
+  </div>
+
+  <p>リーマン積分は「縦切り」であるのに対し、ルベーグ積分はそれを「横切り」にしただけかのような説明がされることがあります。ルベーグ積分はたしかに横切りですが、「縦切りか横切りか」が本質的だとは私は思いません。横切りのアイデアは複雑な関数を簡単な関数で近似するときに有用な直観だと思いますが、結局は横切りしたときの「横の長さ」をきちんと測る必要があるという話になります。すると、測度論は大事という結論に落ち着くわけです。測度論は退屈だと言われがちですが、こういう考え方をすればモチベーションが湧いてくるかもしれません。</p>
+  <p>測度論を使わずに積分を定義する方法もありますが、結局測度論は重要です。</p>
+</div>
+
+<div id="presentation" class="yt-section">
+  <h2>研究発表</h2>
+  <p>私自身、研究発表が上手いわけではないことは百も承知ですが、そんな人こそ何とかしようと色々調べているものです。個人的に参考にしているものをいくつかご紹介します。</p>
+
+  <div class="yt-card">
+    <div class="yt-card-icon" style="background:#555;">
+      <svg viewBox="0 0 24 24" style="width:16px;height:16px;fill:white"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm-1 1.5L18.5 9H13V3.5zM6 20V4h5v7h7v9H6z"/></svg>
+    </div>
+    <div class="yt-card-body">
+      <strong>河東『セミナーの準備のしかたについて』（文章）</strong>
+      動画ではありませんが、触れないわけにはいきません。河東先生は数学者でいらっしゃいますが、心構えは同じであるはず（べき）です。王道にして至高、まずはここから。
+    </div>
+  </div>
+
+  <div class="yt-card">
+    <div class="yt-card-icon"><svg><use href="#yt-icon"/></svg></div>
+    <div class="yt-card-body">
+      <strong>早水『PowerPoint スライド作成実演ライブ』</strong>
+      書店に並ぶプレゼン指南書の多くはビジネス向けで、数式を含む学術発表には適さないアドバイスも少なくありません。早水先生は数学者ですが、紹介されている内容は経済理論の発表にも応用できます。PowerPointを使用されていますが、KeynoteでもBeamerでも本質は同じです。早水先生の授業動画もおすすめです。
+    </div>
+  </div>
+
+  <div class="yt-card">
+    <div class="yt-card-icon" style="background:#555;">
+      <svg viewBox="0 0 24 24" style="width:16px;height:16px;fill:white"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm-1 1.5L18.5 9H13V3.5zM6 20V4h5v7h7v9H6z"/></svg>
+    </div>
+    <div class="yt-card-body">
+      <strong>Shengwu Li "How to Give an Economic Theory Talk"（文章）</strong>
+      経済理論の研究発表に関する必読文書です。Li先生の研究発表はまるで魔法のように惹き込まれます。
+    </div>
+  </div>
+</div>
+
+<div id="channels" class="yt-section">
+  <h2>おすすめのチャンネル</h2>
+  <p>経済学に関係あるなしにかかわらず、おすすめのチャンネルをいくつかご紹介します。広い意味で勉強に関連するものに限りますが。</p>
+
+  <ul class="yt-channel-list">
+    <li>
+      <strong>ヨビノリ</strong> — 受験勉強でお世話になったという方も多いのではないでしょうか。しかし、本当にヨビノリさんのありがたみを感じるのは大学に入ってからです。
+    </li>
+    <li>
+      <strong>3Blue1Brown</strong> — 日本語版もあります。私の研究室にはPi Creatureのぬいぐるみが鎮座しています。
+    </li>
+    <li>
+      <strong>Ufolium</strong> — 日本語版3Blue1Brownの中の人が運営するチャンネルです。有料配信サイトではより多くの内容を配信されています。
+    </li>
+    <li>
+      <strong>Veritasium</strong> — 科学に関する様々なトピックの動画を投稿されています。投票の問題などの経済学・ゲーム理論に関係するテーマもあります。
+    </li>
+    <li>
+      <strong>アイシア＝ソリッド</strong> — データサイエンスVTuberです。機械学習関連の動画が多いですが、線形代数シリーズなど経済学の勉強にも役立つ動画がたくさんあります。中の人は数学博士です。
+    </li>
+    <li>
+      <strong>selcukozyurt</strong> — ミクロ経済学をトピックごとに解説しています。入門から発展まで幅広い内容を扱っており、授業や教科書でわからないことがあればきっと参考になると思います。時間的な都合で授業で扱えないトピックがあったときに参考としておすすめすることがあります。
+    </li>
+    <li>
+      <strong>大関真之先生</strong> — 物理や機械学習の授業動画をYouTubeで配信されています。YouTubeのコメント欄で質問をした際に、丁寧にご回答いただきました。ありがとうございます。
+    </li>
+    <li>
+      <strong>えびまラボ</strong> — 数学やプログラミングを解説されています。特におすすめは戦略盗用論法（ちなみに考案したのはナッシュ）や確率的手法（考案したのはエルデシュ）の動画です。確率的手法の問題は3Blue1Brownの今月の問題シリーズでも取り上げられていました。
+    </li>
+    <li>
+      <strong>JK</strong> — ご自身が解決された未解決問題（！）を解説されています。『エルデシュの未解決問題を解いてみた』なんてトンデモ動画かと思ったら本当でびっくり。
+    </li>
+    <li>
+      <strong>篠崎菜穂子</strong> — 数学者や物理学者のインタビュー動画を投稿されています。本多正平先生のインタビューは特に面白かったです。ヨビノリさんやアイシア＝ソリッドさんも研究者のインタビュー動画を投稿されています。
+    </li>
+    <li>
+      <strong>Dr. Trefor Bazett</strong> — 数学に関係する動画を投稿されています。トピックは多岐に渡ります。シャプレー値の解説などゲーム理論の動画も多数投稿されています。
+    </li>
+  </ul>
+</div>
+
+<div id="afterword" class="yt-section">
+  <h2>あとがき</h2>
+  <p>消費者・生産者理論や一般均衡理論の動画はあまりなかったですね（講義形式の動画は少しありましたが）。英語でもほとんどありませんでした。世界中の学生が経済学の最初の授業で苦しんでいる（？）ことを考えれば、需要はあると思うんですけどね。</p>
+</div>
+
+<div class="yt-back">
+  <a href="/posts/">← 投稿一覧に戻る</a>
+</div>
