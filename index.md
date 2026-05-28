@@ -23,7 +23,7 @@ title: Home
 
 <p class="upcoming-title"><strong>Upcoming Seminars and Conferences:</strong></p>
 <ul class="upcoming-list">
-  <li>Chung-Ang UniversityAU-NTU @ Chung-Ang U. (26-05-28)</li>
+  <li>Chung-Ang University Conference @ Chung-Ang U. (26-05-28)</li>
   <li>KISDI (26-06-18)</li>
   <li>Waseda U. (26-06-23)</li>
   <li>Keio U. (26-06-26)</li>
