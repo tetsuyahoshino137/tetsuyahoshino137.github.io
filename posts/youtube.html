@@ -215,7 +215,7 @@ permalink: /posts/youtube/
   .channel-list li {
     padding: 0.85rem 0;
     border-bottom: 1px solid #eee;
-    font-size: 0.9rem;
+    font-size: 16.5px;
     line-height: 1.8;
     color: #333;
   }
@@ -247,6 +247,22 @@ permalink: /posts/youtube/
   .back a { color: #999; text-decoration: none; }
   .back a:hover { color: #2a6496; }
 </style>
+
+<!-- ===== MathJax ===== -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['\\(', '\\)']],
+      displayMath: [['\\[', '\\]']],
+      processEscapes: true
+    },
+    chtml: {
+      scale: 1.0
+    }
+  };
+</script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
 <div class="page">
 
@@ -288,21 +304,25 @@ permalink: /posts/youtube/
 <!-- ゲーム理論 -->
 <div id="game-theory" class="section">
   <h2>ゲーム理論（基本編）</h2>
-  ゲーム理論には無数の解説動画がありますが、胡散臭い動画も散見されます。「ゲーム理論でビジネスで勝つ！」なんて謳い文句も見かけます。たしかにゲーム理論が実社会に応用された例は多数ありますが、ゲーム理論は勝利の魔法ではありません。寧ろ「どう頑張っても勝てない」ことがゲーム理論で証明されることもあります。
+  <p>ゲーム理論には無数の解説動画がありますが、胡散臭い動画も散見されます。「ゲーム理論でビジネスで勝つ！」なんて謳い文句も見かけます。たしかにゲーム理論が実社会に応用された例は多数ありますが、ゲーム理論は勝利の魔法ではありません。寧ろ「どう頑張っても勝てない」ことがゲーム理論で証明されることもあります。</p>
   <a class="video-link" href="https://youtu.be/-UulHZPFo2M" target="_blank">
     <div class="vl-title">ヨビノリ『ゲーム理論の基本』</div>
     <div class="vl-desc">囚人のジレンマやナッシュ均衡などの基本概念を丁寧に解説しています。応用例はあまり紹介されていませんが、基本を丁寧に解説されています。巷の入門動画とは一線を画す内容です。</div>
   </a>
-  <div class="note">ナッシュ均衡で有名な数学者ジョン・ナッシュの伝記的映画『ビューティフル・マインド』にはナッシュ均衡を説明するシーンがあります。なんと、この説明は間違っています。</div>
-  ヨビノリさんの動画を見て「ゲーム理論って当たり前のことを難しく言っているだけでは？」と思った方もいるかもしれません。そういう面も否定できませんが、だからといって全部そうというわけでもありません。<br>
-  非直観的な例を挙げましょう。<a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%B9%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9" target="_blank">ブライスのパラドックス</a>は「道路を増やすと渋滞が悪化する！？」という不思議な話です。もちろんインチキではありません。<a href="https://www.youtube.com/watch?v=8mlH9bnvWVE" target="_blank">MindYourDecisionsさんの短い動画</a>をご覧ください。実はブライスのパラドックスの背後にあるメカニズムは、囚人のジレンマのそれと似ています（強支配される戦略の消去）。こうしてみると、簡単に思えた（？）囚人のジレンマも、実は含蓄のある話だとわかるはずです。
-  <div class="note">厳密には、動画の主張は成り立ちません。つまり、ナッシュ均衡だからといって必ず「全員が新しい道を通る」とは限りません。動画の設定では「1人だけが上のルートを通り、199人が新しい道を通る」のもナッシュ均衡です。これは上のルートが強く支配されていないことが原因です。しかし、これはほんの些細なことで、混雑に影響されない道路の所要時間を少し長く（たとえば21分）にすれば、元の主張も成り立ちます。</div>
+  <div class="note">
+    ナッシュ均衡で有名な数学者ジョン・ナッシュの伝記的映画『ビューティフル・マインド』にはナッシュ均衡を説明するシーンがあります。なんと、この説明は間違っています。
+  </div>
+  <p>ヨビノリさんの動画を見て「ゲーム理論って当たり前のことを難しく言っているだけでは？」と思った方もいるかもしれません。そういう面も否定できませんが、だからといって全部そうというわけでもありません。</p>
+  <p>非直観的な例を挙げましょう。<a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%B9%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9" target="_blank">ブライスのパラドックス</a>は「道路を増やすと渋滞が悪化する！？」という不思議な話です。もちろんインチキではありません。<a href="https://www.youtube.com/watch?v=8mlH9bnvWVE" target="_blank">MindYourDecisionsさんの短い動画</a>をご覧ください。このパラドックスの背後にあるメカニズムは、囚人のジレンマのそれと似ています（強支配される戦略の消去）。こうしてみると、簡単に思えた（？）囚人のジレンマも、奥深い話だとわかるはずです。</p>
+  <div class="note">
+    厳密には、動画の主張は成り立ちません。つまり、ナッシュ均衡だからといって必ず「全員が新しい道を通る」とは限りません。動画の設定では「1人だけが上のルートを通り、199人が新しい道を通る」のもナッシュ均衡です。これは上のルートが強く支配されていないことが原因です。しかし、これはほんの些細なことで、混雑に影響されない道路の所要時間を少し長く（たとえば21分）にすれば、元の主張も成り立ちます。
+  </div>
 
-  ブライスのパラドックスは机上の空論に聞こえるかもしれません。驚くべきことに、ブライスのパラドックスは現実でも報告されています。
+  <p>ブライスのパラドックスは、机上の空論に聞こえるかもしれません。驚くべきことに、この現象は現実でも報告されています！</p>
   <a class="video-link" href="https://youtu.be/-QTkPfq7w1A" target="_blank">
     <div class="vl-title">Veritasium『引っ張ると縮むメカニズム』</div>
     <div class="vl-desc">
-      現実の交通でも「道路を増やすと渋滞が悪化（道路を減らすと渋滞が改善）」したことが知られています。ゲーム理論的な内容にご興味のある方は動画の冒頭12分をご覧ください。動画後半は工学的な話へと展開します。
+      現実でも「道路を増やすと渋滞が悪化（道路を減らすと渋滞が改善）」したことが知られています。ゲーム理論的な内容にご興味のある方は動画の冒頭12分をご覧ください。動画の後半は工学的なお話です。
     </div>
   </a>
 </div>
@@ -310,15 +330,16 @@ permalink: /posts/youtube/
 <!-- 投票 -->
 <div id="voting" class="section">
   <h2>投票</h2>
-  <p>経済学の身近な例として投票があります。国会議員を選ぶにしても、友人とのランチの場所を決めるにしても、複数の人の意見をまとめるときは投票を使うことがあります。多くの場合は多数決を用いますが、多数決は本当に「良い」ルールなんでしょうか？実は「みんなの意見をいつでもうまくまとめられる投票ルールは存在しない」ことが証明されています（アローの不可能性定理）。</p>
+  <p>経済学の身近な例として投票があります。国会議員を選ぶにしても、友人とのランチの場所を決めるにしても、複数の人の意見をまとめるときは投票を使うことがあります。よく多数決を用いますが、これは本当に「良い」ルールなんでしょうか？実は「みんなの意見をいつでもうまくまとめられる投票ルールは存在しない」ことが証明されています（アローの不可能性定理）。</p>
   <a class="video-link" href="https://www.youtube.com/watch?v=Q7peHBx0MwY" target="_blank">
     <div class="vl-title">るーいのゆっくり科学『最悪の結末を生む多数決』</div>
     <div class="vl-desc">投票の不思議をわかりやすく解説しています。</div>
   </a>
-  <ul class="sub-list">
-    <li>発展的な内容に興味のある方には<a href="https://youtu.be/qf7ws2DF-zk" target="_blank">Veritasium</a>と<a href="https://youtu.be/rbVoEjS6Q1Q" target="_blank">Polylog</a>もおすすめです。</li>
-    <li><a href="https://youtu.be/v5ev-RAg7Xs" target="_blank">Physics for the Birds</a>はチチルニスキーの不可能性定理を解説しています。この定理は（アローの不可能性定理とは別の設定で）やはり「みんなの意見をいつでもうまくまとめられる投票ルールは存在しない」ことを示しています。興味深いことにこの証明では<a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%93%E3%82%A6%E3%82%B9%E3%81%AE%E5%B8%AF" target="_blank">メビウスの帯</a>が重要な役割を果たします。トポロジーの面白い応用です。</li>
-  </ul>
+  <p>発展的な内容に興味のある方には<a href="https://youtu.be/qf7ws2DF-zk" target="_blank">Veritasium</a>と<a href="https://youtu.be/rbVoEjS6Q1Q" target="_blank">Polylog</a>の動画もおすすめです。</p>
+  <div class="note">
+    さらに発展的な内容になりますが、<a href="https://youtu.be/v5ev-RAg7Xs" target="_blank">Physics for the Birds</a>はチチルニスキーの不可能性定理を解説しています。この定理も（アローの不可能性定理とは別の設定で）「みんなの意見をいつでもうまくまとめられる投票ルールは存在しない」ことを示しています。興味深いことにこの証明では<a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%93%E3%82%A6%E3%82%B9%E3%81%AE%E5%B8%AF" target="_blank">メビウスの帯</a>が重要な役割を果たします。トポロジーの面白い応用です。
+  </div>
+
 </div>
 
 <!-- 微分積分 -->
@@ -329,24 +350,22 @@ permalink: /posts/youtube/
     <div class="vl-title">3Blue1Brown『微分積分のエッセンス』</div>
     <div class="vl-desc">最高の入門シリーズです。高校数学の復習から始まり、ε–δ論法による極限の定義、陰関数定理、テイラー展開などをカバーしています。</div>
   </a>
-  <ul class="sub-list">
-    <li>このシリーズでは関数列の収束は扱われていませんが、各点収束と一様収束の違いは混乱しがちなトピックです。これについては<a href="https://youtu.be/r0V14KCiixU" target="_blank">ヨビノリ『各点収束と一様収束』</a>がおすすめです。</li>
-  </ul>
+  <p>このシリーズでは関数列の収束は扱われていませんが、各点収束と一様収束の違いは混乱しがちなトピックです。これについては<a href="https://youtu.be/r0V14KCiixU" target="_blank">ヨビノリ『各点収束と一様収束』</a>がおすすめです。</p>
 </div>
 
 <!-- 線形代数 -->
 <div id="linear-algebra" class="section">
   <h2>線形代数</h2>
-  線形代数も経済学では必須です。統計学・計量経済学では線形代数の知識は不可欠ですし、効用最大化や費用最小化などの最適化問題でも微分積分と併せて使います。<br>
-  線形代数は最初は簡単（？）かもしれませんが、行列式が出てきた辺りから怪しくなり、固有値やベクトル空間の公理を見て嫌になった方も多いのではないでしょうか。
+  <p>線形代数も経済学では必須です。統計学・計量経済学では線形代数の知識は不可欠ですし、効用最大化や費用最小化などの最適化問題でも微分積分と併せて使います。</p>
+  <p>線形代数は最初は簡単（？）かもしれませんが、行列式が出てきた辺りから怪しくなり、固有値やベクトル空間の公理を見て嫌になった方も多いのではないでしょうか。</p>
   <a class="video-link" href="https://www.youtube.com/watch?v=fNk_zzaMoSs" target="_blank">
     <div class="vl-title">3Blue1Brown『線形代数のエッセンス』</div>
     <div class="vl-desc">最高の入門シリーズです。ベクトルの復習から始まり、行列式や固有値など一見わかりにくい概念も視覚的に説明しています。最終回では線形を抽象的に振り返り、ベクトル空間の定義まで連れて行ってくれます。</div>
   </a>
-  線形代数には他にも多くわかりやすい解説があります。特に、<a href="https://www.youtube.com/watch?v=svm8hlhF8PA" target="_blank">ヨビノリさんのシリーズ</a>や<a href="https://www.youtube.com/watch?v=wVipLySksnE" target="_blank">アイシア＝ソリッドさんのシリーズ</a>もおすすめです。
-  <ul class="sub-list">
-    <li><a href="https://www.youtube.com/watch?v=SNCHDPwQGFw" target="_blank">Ufoliumさんのシリーズ</a>もおすすめですが、一部有料です。</li>
-  </ul>
+  <p>線形代数には他にも多くわかりやすい解説があります。特に、<a href="https://www.youtube.com/watch?v=svm8hlhF8PA" target="_blank">ヨビノリさんのシリーズ</a>や<a href="https://www.youtube.com/watch?v=wVipLySksnE" target="_blank">アイシア＝ソリッドさんのシリーズ</a>もおすすめです。</p>
+  <div class="note">
+    <a href="https://www.youtube.com/watch?v=SNCHDPwQGFw" target="_blank">Ufoliumさんのシリーズ</a>もおすすめですが、一部有料のようです。
+  </div>
 </div>
 
 <!-- 最適化 -->
@@ -355,27 +374,32 @@ permalink: /posts/youtube/
   何らかの関数を最大化・最小化することを最適化といいます。経済学では効用最大化や費用最小化など多くの問題が「ある制約の下で何かを最大化・最小化する」という最適化問題として定式化されます。便利な方法がラグランジュの未定乗数法やKKT条件です。語弊を恐れず言えば、この方法は「微分してゼロ」とおくだけなので、「よくわからないけど使っている」という方もいるかもしれません。
   <div class="note">なんでもかんでも「微分してゼロ」で解けるわけではありません。大学の先生は「微分してゼロ」では解けない例をテストによく出します。意地悪ですね。</div>
   なぜ「微分してゼロ」で解けるのでしょうか？理由は知らないけどなんとなく使っているという方には以下の動画がおすすめです。
-  <div class="video-link">
-    <div class="vl-title"><a href="https://youtu.be/vAwqZmwf4W8" target="_blank">
-      ヨビノリ『ラグランジュの未定乗数法の気持ち』</a>・<a href="https://youtu.be/bdWTCq98H5c" target="_blank">『制約付き最適化問題』</a>
-    </div>
-    <div class="vl-desc">なぜ「微分してゼロ」で解けるのかはもちろん、制約条件があってもなぜ同様の方法が使えるのかも解説しています。</div>
-  </div>
-  <div class="video-link">
-    <div class="vl-title"><a href="https://youtu.be/2-E4XiHQEcM" target="_blank">アイシア＝ソリッド『あの計算の意味、説明できますか？』</a></div>
+  <a class="video-link" href="https://youtu.be/vAwqZmwf4W8" target="_blank">
+    <div class="vl-title">ヨビノリ『ラグランジュの未定乗数法の気持ち』</div>
+    <div class="vl-desc">なぜ「微分してゼロ」で解けるのか解説しています。</div>
+  </a>
+  <a class="video-link" href="https://youtu.be/2-E4XiHQEcM" target="_blank">
+    <div class="vl-title">アイシア＝ソリッド『あの計算の意味、説明できますか？』</div>
     <div class="vl-desc">こちらもラグランジュの未定乗数法の意味を教えてくれる動画です。</div>
-  </div>
+  </a>
+  以上の動画では制約条件が等式の場合だけを扱っていました。経済学で言えば、予算制約 \(\mathbf p \cdot \mathbf x = I\) の下で効用を最大化するような状況ですね。しかし、制約条件が不等式の場合も扱いたい状況もあります。もっと言えば、制約条件が等式と不等式の両方からなる場合もあります。「微分してゼロ」の方法は、こんな一般的な制約付き最適化問題にも拡張されています。
+  <a class="video-link" href="https://youtu.be/bdWTCq98H5c" target="_blank">
+    <div class="vl-title">ヨビノリ『制約付き最適化問題』</div>
+    <div class="vl-desc">制約条件が等式と不等式の両方からなる場合にも使えるKKT条件を解説しています。</div>
+  </a>
 </div>
 
 <!-- トポロジー -->
 <div id="topology" class="section">
   <h2>トポロジー（位相）</h2>
   <p>経済学でもトポロジー（位相）という数学が登場します。トポロジーはよく「ドーナツとマグカップを同じとみなす数学」と紹介され、面白そうな反面、「だから何なの？」「経済学と関係あるの？」と思う方もいるでしょう。</p>
-  <div class="video-link">
-    <div class="vl-title"><a href="https://youtu.be/IQqtsm-bBRU" target="_blank">3Blue1Brown『トポロジーって何？』</a>（<a href="https://youtu.be/qAgungg5jpM" target="_blank">日本語版</a>）</div>
+  <a class="video-link" href="https://youtu.be/IQqtsm-bBRU" target="_blank">
+    <div class="vl-title">3Blue1Brown『トポロジーって何？』</div>
     <div class="vl-desc">具体的な問題への応用を通してトポロジーの有用性を垣間見せてくれる動画です。同様のアイデア（不動点定理）は経済学ではナッシュ均衡の存在証明など至るところで応用されています。トポロジーは抽象的ですが、具体的な応用があるとわかるとモチベーションも湧きますね。</div>
+  </a>
+  <div class="note">
+    この動画では、問題をメビウスの帯に言い換えることで解決しました。驚くべきことに、似たアイデアは投票の問題でも使われています。<a href="https://youtu.be/v5ev-RAg7Xs" target="_blank">Physics for the Birdsの動画</a>をご覧ください。
   </div>
-  <p>この動画では、問題をメビウスの帯に言い換えることで解決しました。驚くべきことに、似たアイデアは投票の問題でも使われています。<a href="https://youtu.be/v5ev-RAg7Xs" target="_blank">Physics for the Birdsの動画</a>をご覧ください。</p>
   <p>モチベーションがわかっても、トポロジーが抽象的で取っつきにくいのは変わりありません。結局は慣れだと思いますが、抽象論に辟易している方には、<a href="https://youtu.be/CrkAYD5ua6o" target="_blank">MathneQさん</a>や<a href="https://youtu.be/9LZzyNQlEdQ" target="_blank">趣味の大学数学さん</a>がおすすめです。</p>
 </div>
 
@@ -400,10 +424,11 @@ permalink: /posts/youtube/
     <div class="vl-title">新井『イメージがわかるルベーグ測度・積分』</div>
     <div class="vl-desc">直観的なイメージを強調しつつも、硬派なスタイルの動画です。ルベーグ積分の動画には、簡単に説明しようとして内容を端折ってしまうものが多い中、新井先生の丁寧な解説は貴重です。</div>
   </a>
-  <ul class="sub-list">
-    <li>リーマン積分は「縦切り」であるのに対し、ルベーグ積分はそれを「横切り」にしただけかのような説明がされることがあります。ルベーグ積分はたしかに横切りですが、「縦切りか横切りか」が本質的だとは私は思いません。横切りのアイデアは複雑な関数を簡単な関数で近似するときに有用な直観だと思いますが、結局は横切りしたときの「横の長さ」をきちんと測る必要があるという話になります。すると、測度論は大事という結論に落ち着くわけです。測度論は退屈だと言われがちですが、こういう考え方をすればモチベーションが湧いてくるかもしれません。</li>
-    <li><a href="https://www.youtube.com/watch?v=GCXudhqPek4" target="_blank">測度論を使わずに積分を定義する方法</a>もありますが、結局測度論は重要です。</li>
-  </ul>
+  <p>リーマン積分は「縦切り」であるのに対し、ルベーグ積分はそれを「横切り」にしただけかのような説明がされることがあります。ルベーグ積分はたしかに横切りですが、「縦切りか横切りか」が本質的だとは私は思いません。横切りのアイデアは複雑な関数を簡単な関数で近似するときに有用な直観だと思いますが、結局は横切りしたときの「横の長さ」をきちんと測る必要があるという話になります。すると、測度論は大事という結論に落ち着くわけです。測度論は退屈だと言われがちですが、こういう考え方をすればモチベーションが湧いてくるかもしれません。</p>
+  <div class="note">
+    ちなみに、<a href="https://www.youtube.com/watch?v=GCXudhqPek4" target="_blank">測度論を使わずに積分を定義する方法</a>もありますが、結局測度論は重要です。
+  </div>
+
 </div>
 
 <!-- 研究発表 -->
@@ -428,8 +453,10 @@ permalink: /posts/youtube/
   <h2>おすすめのチャンネル</h2>
   <p>経済学に関係あるなしにかかわらず、おすすめのチャンネルをいくつかご紹介します。広い意味で勉強に関連するものに限りますが。</p>
   <ul class="channel-list">
-    <li><a href="https://www.youtube.com/@yobinori" target="_blank">ヨビノリ</a>さんはみんなもご存知ですよね。<small>受験勉強でお世話になったという方も多いのではないでしょうか。しかし、本当にヨビノリさんのありがたみを感じるのは大学に入ってからです。</small></li>
-    <li><a href="https://www.youtube.com/@3blue1brown" target="_blank">3Blue1Brown</a>さんもご存知の方も多いのではないでしょうか。日本語版もあります。<small>私の研究室にはPi Creatureのぬいぐるみが鎮座しています。</small></li>
+    <li><a href="https://www.youtube.com/@yobinori" target="_blank">ヨビノリ</a>さんはみんなもご存知ですよね。
+      <small>受験勉強でお世話になったという方も多いのではないでしょうか。しかし、本当にヨビノリさんのありがたみを感じるのは大学に入ってからです。</small></li>
+    <li><a href="https://www.youtube.com/@3blue1brown" target="_blank">3Blue1Brown</a>さんもご存知の方も多いのではないでしょうか。<a href="https://www.youtube.com/@3Blue1BrownJapan" target="_blank">日本語版</a>もあります。      
+      <small>私の研究室にはPi Creatureのぬいぐるみが鎮座しています。</small></li>
     <li><a href="https://www.youtube.com/@ufolium" target="_blank">Ufolium</a>さんは日本語版3Blue1Brownの中の人が運営するチャンネルです。<small>有料配信サイトではより多くの内容を配信されています。</small></li>
     <li><a href="https://www.youtube.com/@veritasium" target="_blank">Veritasium</a>さんは科学に関する様々なトピックの動画を投稿されています。<small>投票の問題などの経済学・ゲーム理論に関係するテーマもあります。</small></li>
     <li><a href="https://www.youtube.com/@AIcia_Solid" target="_blank">アイシア＝ソリッド</a>さんはデータサイエンスVTuberです。機械学習関連の動画が多いですが、線形代数シリーズなど経済学の勉強にも役立つ動画がたくさんあります。<small>中の人は数学博士です。</small></li>
