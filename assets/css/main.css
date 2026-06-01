@@ -120,7 +120,7 @@
 .hp-scope .paper-sub a:hover { text-decoration: underline; }
 .hp-scope .badge { color: var(--color-red); font-weight: 600; }
 .hp-scope .badge a { color: var(--color-red); }
-.hp-scope .dot { color: #ccc; margin: 0 0.4rem; }
+/* .hp-scope .dot { color: #ccc; margin: 0 0.4rem; } */
 
 /* ===== イントロ（posts / youtube） ===== */
 .hp-scope .intro { margin-bottom: 2rem; }
