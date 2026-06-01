@@ -1,0 +1,211 @@
+/* ============================================================
+   Tetsuya Hoshino — Site Styles
+   このファイル1つでサイト全体のデザインを管理します。
+   フォントサイズや色を変えたいときは、下の :root の変数を編集してください。
+   ============================================================ */
+
+:root {
+  /* ----- フォント ----- */
+  --font-sans: 'Nunito', 'M PLUS Rounded 1c', sans-serif;
+  --font-base: 16.5px;        /* 本文の基準サイズ */
+  --line-height: 1.6;
+
+  /* ----- 色 ----- */
+  --color-text: #2a2a2a;      /* 本文 */
+  --color-heading: #1a1a1a;   /* 見出し・タイトル */
+  --color-sub: #555;          /* 補助テキスト（共著者・説明など） */
+  --color-muted: #888;        /* 控えめなテキスト */
+  --color-faint: #bbb;        /* さらに控えめ（小見出しラベルなど） */
+  --color-accent: #2a6496;    /* アクセント（リンク・見出し）青 */
+  --color-red: #c0392b;       /* 強調（R&R・掲載誌・ラベル）赤 */
+  --color-bg: #fafaf8;        /* 背景 */
+  --color-card-bg: #fff;      /* カード背景 */
+  --color-border: #e6e4dd;    /* 罫線 */
+  --color-card-border: #ddd;  /* カード枠線 */
+
+  /* ----- レイアウト ----- */
+  --max-width: 720px;         /* コンテンツ幅 */
+  --section-gap: 2.8rem;      /* セクション間の余白 */
+}
+
+/* ===== ベース ===== */
+.hp-scope *, .hp-scope *::before, .hp-scope *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+.hp-scope {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-size: var(--font-base);
+  line-height: var(--line-height);
+  color: var(--color-text);
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.hp-scope a { color: var(--color-accent); }
+.hp-scope a:hover { text-decoration: underline; }
+
+/* ===== ヘッダー ===== */
+.hp-scope .page-header {
+  display: block;
+  margin-bottom: 2rem;
+  padding: 0;
+  border: none;
+}
+.hp-scope .page-header h1 {
+  font-size: 1.9rem;
+  font-weight: 700;
+  letter-spacing: 0.005em;
+  line-height: 1.3;
+  color: var(--color-heading);
+  margin-bottom: 0.1rem;
+}
+.hp-scope .page-header .subtitle {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-faint);
+  margin-bottom: 0.45rem;
+}
+
+/* ===== プロフィール情報行（index） ===== */
+.hp-scope .position { font-size: 1rem; color: #666; margin-bottom: 1rem; }
+.hp-scope .meta-row { display: flex; flex-direction: column; gap: 0.3rem; font-size: 1rem; }
+.hp-scope .meta-row a { color: var(--color-accent); text-decoration: none; font-weight: 700; }
+.hp-scope .meta-row a:hover { text-decoration: underline; }
+.hp-scope .meta-row .lbl { color: #999; font-weight: 600; }
+.hp-scope .meta-row code { font-size: 1rem; color: #444; }
+.hp-scope .copy-btn {
+  font-family: inherit; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.03em;
+  padding: 0.08rem 0.45rem; border: 1px solid #ccc; border-radius: 3px;
+  background: transparent; color: var(--color-muted); cursor: pointer;
+}
+.hp-scope .copy-btn:hover { background: var(--color-accent); color: #fff; border-color: var(--color-accent); }
+
+/* ===== Upcoming（index） ===== */
+.hp-scope .upcoming { margin-bottom: 0.5rem; }
+.hp-scope .upcoming-title {
+  font-size: 0.72rem; font-weight: 700; letter-spacing: 0.13em;
+  text-transform: uppercase; color: var(--color-faint); margin-bottom: 0.5rem;
+}
+.hp-scope .upcoming-list { list-style: none; }
+.hp-scope .upcoming-list li { font-size: 0.85rem; color: var(--color-muted); line-height: 1.7; }
+.hp-scope .upcoming-list li .date { color: #aaa; }
+
+/* ===== セクション見出し（全ページ共通） ===== */
+.hp-scope .section { margin-top: var(--section-gap); }
+.hp-scope .section h2 {
+  font-size: 1rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--color-accent); padding-bottom: 0.5rem; margin-bottom: 1.3rem;
+  border-bottom: 1px solid var(--color-border);
+}
+.hp-scope .section > p { margin-bottom: 1em; }
+
+/* ===== 論文リスト（index） ===== */
+.hp-scope .paper-list { list-style: none; }
+.hp-scope .paper-list > li { margin-bottom: 1.35rem; }
+.hp-scope .paper-list > li:last-child { margin-bottom: 0; }
+.hp-scope .paper-title { font-weight: 700; color: var(--color-heading); line-height: 1.45; margin-bottom: 0.1rem; }
+.hp-scope .paper-title a {
+  color: var(--color-accent); text-decoration: none;
+  background-image: linear-gradient(var(--color-accent), var(--color-accent));
+  background-size: 0% 1.5px; background-repeat: no-repeat; background-position: 0 100%;
+  transition: background-size 0.2s; padding-bottom: 1px;
+}
+.hp-scope .paper-title a:hover { background-size: 100% 1.5px; }
+.hp-scope .paper-sub { font-size: 1rem; color: var(--color-sub); }
+.hp-scope .paper-pub { font-size: 1rem; margin-top: 0.05rem; }
+.hp-scope .paper-sub a { color: var(--color-accent); text-decoration: none; }
+.hp-scope .paper-sub a:hover { text-decoration: underline; }
+.hp-scope .badge { color: var(--color-red); font-weight: 600; }
+.hp-scope .badge a { color: var(--color-red); }
+.hp-scope .dot { color: #ccc; margin: 0 0.4rem; }
+
+/* ===== イントロ（posts / youtube） ===== */
+.hp-scope .intro { margin-bottom: 2rem; }
+.hp-scope .intro p { margin-bottom: 1em; }
+.hp-scope .big-question { font-size: 1.05rem; font-weight: 700; text-align: center; color: var(--color-heading); }
+.hp-scope .intro-notes {
+  list-style: none; border-left: 3px solid #e0e0e0; padding-left: 1.2rem; margin-top: 1rem;
+}
+.hp-scope .intro-notes li { font-size: 0.9rem; color: var(--color-sub); line-height: 1.6; margin-bottom: 0.55em; }
+
+/* ===== 記事カード（posts） ===== */
+.hp-scope .post-card {
+  display: block; margin: 1rem 0; padding: 0.85rem 1.1rem;
+  background: var(--color-card-bg); border: 1px solid var(--color-card-border);
+  border-left: 3px solid var(--color-accent); border-radius: 4px;
+  text-decoration: none; color: inherit;
+  transition: border-left-color 0.15s, box-shadow 0.15s;
+}
+.hp-scope .post-card:hover { border-left-color: var(--color-red); box-shadow: 0 2px 8px rgba(0,0,0,0.08); text-decoration: none; }
+.hp-scope .pc-title {
+  font-weight: 700; font-size: 1rem; color: var(--color-accent); line-height: 1.6; margin-bottom: 0.3rem;
+  text-decoration: underline; text-decoration-color: rgba(42,100,150,0.4);
+}
+.hp-scope .post-card:hover .pc-title { text-decoration-color: var(--color-accent); }
+.hp-scope .pc-desc { font-size: 0.9rem; color: var(--color-sub); line-height: 1.6; }
+.hp-scope .pc-desc p { margin-bottom: 0.8em; }
+.hp-scope .pc-desc p:last-child { margin-bottom: 0; }
+
+/* ===== 目次（youtube） ===== */
+.hp-scope .toc {
+  background: #f0f0ec; border-radius: 6px; padding: 1.2rem 1.6rem; margin: 2rem 0;
+  display: inline-block; min-width: 260px; max-width: 100%;
+}
+.hp-scope .toc-label { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-faint); margin-bottom: 0.7rem; }
+.hp-scope .toc ol { padding-left: 1.4em; margin: 0; }
+.hp-scope .toc li { margin-bottom: 0.28em; font-size: 0.9rem; line-height: 1.6; }
+.hp-scope .toc a { color: var(--color-accent); text-decoration: none; }
+.hp-scope .toc a:hover { text-decoration: underline; }
+
+/* ===== 動画カード（youtube） ===== */
+.hp-scope .video-link {
+  display: block; margin: 1rem 0; padding: 0.85rem 1.1rem;
+  background: var(--color-card-bg); border: 1px solid var(--color-card-border);
+  border-left: 3px solid var(--color-accent); border-radius: 4px;
+  text-decoration: none; color: inherit;
+  transition: border-left-color 0.15s, box-shadow 0.15s;
+}
+.hp-scope .video-link:hover { border-left-color: var(--color-red); box-shadow: 0 2px 8px rgba(0,0,0,0.08); text-decoration: none; }
+.hp-scope div.video-link { cursor: default; }
+.hp-scope .vl-label { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-red); margin-bottom: 0.25rem; }
+.hp-scope .vl-title { font-weight: 700; font-size: 1rem; color: var(--color-heading); line-height: 1.6; margin-bottom: 0.3rem; }
+.hp-scope .vl-title a { color: var(--color-accent); text-decoration: underline; text-decoration-color: rgba(42,100,150,0.4); }
+.hp-scope .vl-title a:hover { text-decoration-color: var(--color-accent); }
+.hp-scope .vl-desc { font-size: 0.9rem; color: var(--color-sub); line-height: 1.6; }
+
+/* ===== ノート（youtube） ===== */
+.hp-scope .note { display: block; font-size: 0.86rem; color: var(--color-muted); padding: 0 0 0 0.85rem; margin: 0.85rem 0; line-height: 1.6; border-left: 2px solid #eee; }
+.hp-scope .section .note { margin-bottom: 0.85em; }
+
+/* ===== サブリスト（youtube） ===== */
+.hp-scope .sub-list { list-style: none; margin: 0.6rem 0 0.4rem 0; }
+.hp-scope .sub-list li { font-size: 0.9rem; color: #444; padding: 0.32rem 0 0.32rem 1.4rem; border-bottom: 1px solid #f0f0ec; line-height: 1.6; position: relative; }
+.hp-scope .sub-list li:last-child { border-bottom: none; }
+.hp-scope .sub-list li::before { content: '▶'; position: absolute; left: 0; color: #000; font-size: 0.65em; top: 0.55rem; }
+
+/* ===== チャンネルリスト（youtube） ===== */
+.hp-scope .channel-list { list-style: none; }
+.hp-scope .channel-list li { padding: 0.5rem 0; font-size: var(--font-base); line-height: 1.6; color: #333; }
+.hp-scope .channel-list li small { display: block; font-size: 0.83rem; color: #777; line-height: 1.6; }
+.hp-scope .channel-list li a { color: var(--color-accent); text-decoration: none; }
+.hp-scope .channel-list li a:hover { text-decoration: underline; }
+
+/* ===== 後日追加（youtube） ===== */
+.hp-scope .soon { color: #aaa; font-style: italic; }
+
+/* ===== 戻るリンク（youtube） ===== */
+.hp-scope .back { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #eee; font-size: 0.84rem; }
+.hp-scope .back a { color: var(--color-muted); text-decoration: none; }
+.hp-scope .back a:hover { color: var(--color-accent); }
+
+/* ===== レスポンシブ ===== */
+@media (max-width: 600px) {
+  :root { --font-base: 16px; }
+  .hp-scope .page-header h1 { font-size: 1.6rem; }
+  .hp-scope .section h2 { font-size: 0.95rem; letter-spacing: 0.1em; }
+  .hp-scope .paper-sub, .hp-scope .paper-pub { font-size: 0.95rem; }
+  .hp-scope .meta-row { font-size: 0.95rem; }
+  .hp-scope .meta-row code { word-break: break-all; }
+}
