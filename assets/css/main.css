@@ -103,7 +103,7 @@
 
 /* ===== 論文リスト（index） ===== */
 .hp-scope .paper-list { list-style: none; }
-.hp-scope .paper-list > li { margin-bottom: 0.6rem; }
+.hp-scope .paper-list > li { margin-bottom: 0.7rem; }
 .hp-scope .paper-list > li:last-child { margin-bottom: 0; }
 .hp-scope .paper-title { font-weight: 700; color: var(--color-heading); line-height: 1.45; margin-bottom: 0.1rem; }
 .hp-scope .paper-title a {
