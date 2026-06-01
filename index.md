@@ -33,12 +33,12 @@ title: Home
         <div class="paper-sub">with Andrei Gomberg | <a href="slides/GombergHoshino_CETC.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Codes</a></div>
       </li> -->
       <li>
-        <div class="paper-title"><a href="papers/GombergHoshino250408.pdf">Elections with Opinion Polls: Information Acquisition and Aggregation</a> with Andrei Gomberg</div>
+        <div class="paper-title"><a href="papers/GombergHoshino250408.pdf">Elections with Opinion Polls: Information Acquisition and Aggregation</a></div> with Andrei Gomberg
         <div class="paper-sub"><a href="slides/GombergHoshino_CETC.pdf">Slides</a> | <a href="...">Codes</a></div>
       </li>
       <li>
         <div class="paper-title">Rational Inattention and Endogenous Volatility: A Large Deviation Approach</div>
-        <div class="paper-sub">with Takashi Ui | <a href="slides/HoshinoUi_BRIC.pdf">Slides</a></div>
+        <div class="paper-sub">with Takashi Ui <a href="slides/HoshinoUi_BRIC.pdf">Slides</a></div>
       </li>
       <li>
         <div class="paper-title"><a href="papers/HoshinoKamada260125.pdf">Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza</a></div>
@@ -47,12 +47,12 @@ title: Home
       </li>
       <li>
         <div class="paper-title"><a href="papers/HoshinoPancs260406.pdf">Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines</a></div>
-        <div class="paper-sub">with Romans Pancs | <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a></div>
+        <div class="paper-sub">with Romans Pancs <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a></div>
         <div class="paper-pub"><span class="badge">R&amp;R at <em>Management Science</em></span></div>
       </li>
       <li>
         <div class="paper-title">Recursive Rational Inattention Is Entropic</div>
-        <div class="paper-sub">with Henrique De Oliveira | <a href="slides/DeoliveiraHoshino_EconometricSociety.pdf">Slides</a></div>
+        <div class="paper-sub">with Henrique De Oliveira <a href="slides/DeoliveiraHoshino_EconometricSociety.pdf">Slides</a></div>
       </li>
       <li>
         <div class="paper-title"><a href="papers/HoshinoJMP.pdf">Rational Inattention in Games</a></div>
