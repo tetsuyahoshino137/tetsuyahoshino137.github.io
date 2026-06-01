@@ -2,8 +2,8 @@
 layout: default
 title: Home
 ---
-<div class="hp-scope">
 
+<div class="hp-scope">
   <div class="page-header">
     <h1>{{ site.name }}</h1>
     <p class="position">{{ site.position }}</p>
@@ -28,31 +28,26 @@ title: Home
   <div class="section">
     <h2>Working Papers</h2>
     <ul class="paper-list">
-      <!-- <li>
-        <div class="paper-title"><a href="papers/GombergHoshino250408.pdf">Elections with Opinion Polls: Information Acquisition and Aggregation</a></div>
-        <div class="paper-sub">with Andrei Gomberg | <a href="slides/GombergHoshino_CETC.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Codes</a></div>
-      </li> -->
       <li>
-        <div class="paper-title"><a href="papers/GombergHoshino250408.pdf">Elections with Opinion Polls: Information Acquisition and Aggregation</a></div> with Andrei Gomberg
-        <div class="paper-sub"><a href="slides/GombergHoshino_CETC.pdf">Slides</a> | <a href="...">Codes</a></div>
+        <div class="paper-title"><a href="papers/GombergHoshino250408.pdf">Elections with Opinion Polls: Information Acquisition and Aggregation</a> <span class="authors">with Andrei Gomberg</span></div>
+        <div class="paper-sub"><a href="slides/GombergHoshino_CETC.pdf">Slides</a><span class="dot">·</span><a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Codes</a></div>
       </li>
       <li>
-        <div class="paper-title">Rational Inattention and Endogenous Volatility: A Large Deviation Approach</div>
-        <div class="paper-sub">with Takashi Ui <a href="slides/HoshinoUi_BRIC.pdf">Slides</a></div>
+        <div class="paper-title">Rational Inattention and Endogenous Volatility: A Large Deviation Approach <span class="authors">with Takashi Ui</span></div>
+        <div class="paper-sub"><a href="slides/HoshinoUi_BRIC.pdf">Slides</a></div>
       </li>
       <li>
-        <div class="paper-title"><a href="papers/HoshinoKamada260125.pdf">Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza</a></div>
-        <div class="paper-sub">with Takuma Kamada</div>
+        <div class="paper-title"><a href="papers/HoshinoKamada260125.pdf">Indirect Enforcement and the Transformation of Organized Crime: Evidence from the Yakuza</a> <span class="authors">with Takuma Kamada</span></div>
         <div class="paper-pub"><span class="badge">R&amp;R at <em>Journal of Comparative Economics</em></span></div>
       </li>
       <li>
-        <div class="paper-title"><a href="papers/HoshinoPancs260406.pdf">Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines</a></div>
-        <div class="paper-sub">with Romans Pancs <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a></div>
+        <div class="paper-title"><a href="papers/HoshinoPancs260406.pdf">Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines</a> <span class="authors">with Romans Pancs</span></div>
+        <div class="paper-sub"><a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a><span class="dot">·</span><a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a></div>
         <div class="paper-pub"><span class="badge">R&amp;R at <em>Management Science</em></span></div>
       </li>
       <li>
-        <div class="paper-title">Recursive Rational Inattention Is Entropic</div>
-        <div class="paper-sub">with Henrique De Oliveira <a href="slides/DeoliveiraHoshino_EconometricSociety.pdf">Slides</a></div>
+        <div class="paper-title">Recursive Rational Inattention Is Entropic <span class="authors">with Henrique De Oliveira</span></div>
+        <div class="paper-sub"><a href="slides/DeoliveiraHoshino_EconometricSociety.pdf">Slides</a></div>
       </li>
       <li>
         <div class="paper-title"><a href="papers/HoshinoJMP.pdf">Rational Inattention in Games</a></div>
@@ -65,8 +60,7 @@ title: Home
     <h2>Publications</h2>
     <ul class="paper-list">
       <li>
-        <div class="paper-title"><a href="papers/ChatterjeeDongHoshinoAEJ240904.pdf">Bargaining and Information Acquisition</a></div>
-        <div class="paper-sub">with Kalyan Chatterjee and Miaomiao Dong</div>
+        <div class="paper-title"><a href="papers/ChatterjeeDongHoshinoAEJ240904.pdf">Bargaining and Information Acquisition</a> <span class="authors">with Kalyan Chatterjee and Miaomiao Dong</span></div>
         <div class="paper-pub"><span class="badge"><a href="https://www.aeaweb.org/articles?id=10.1257/mic.20240034"><em>American Economic Journal: Micro</em></a> (2025)</span></div>
       </li>
       <li>
@@ -74,16 +68,13 @@ title: Home
         <div class="paper-pub"><span class="badge"><a href="https://onlinelibrary.wiley.com/doi/10.1111/iere.12546"><em>International Economic Review</em></a> (2022)</span></div>
       </li>
       <li>
-        <div class="paper-title"><a href="papers/HoshinoKamadaJQC200601.pdf">Third-Party Policing Approaches against Organized Crime</a></div>
-        <div class="paper-sub">with Takuma Kamada</div>
+        <div class="paper-title"><a href="papers/HoshinoKamadaJQC200601.pdf">Third-Party Policing Approaches against Organized Crime</a> <span class="authors">with Takuma Kamada</span></div>
         <div class="paper-pub"><span class="badge"><a href="https://link.springer.com/article/10.1007/s10940-020-09466-6"><em>Journal of Quantitative Criminology</em></a> (2021)</span></div>
       </li>
       <li>
-        <div class="paper-title"><a href="papers/BasuChatterjeeHoshinoTamuzJET200731.pdf">Repeated Coordination with Private Learning</a></div>
-        <div class="paper-sub">with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz</div>
+        <div class="paper-title"><a href="papers/BasuChatterjeeHoshinoTamuzJET200731.pdf">Repeated Coordination with Private Learning</a> <span class="authors">with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz</span></div>
         <div class="paper-pub"><span class="badge"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053120300995"><em>Journal of Economic Theory</em></a> (2020)</span></div>
       </li>
     </ul>
   </div>
-
 </div>
