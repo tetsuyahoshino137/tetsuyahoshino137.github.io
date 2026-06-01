@@ -112,6 +112,7 @@
   background-size: 0% 1.5px; background-repeat: no-repeat; background-position: 0 100%;
   transition: background-size 0.2s; padding-bottom: 1px;
 }
+.hp-scope .paper-title .authors { font-weight: 400; color: var(--color-sub); }
 .hp-scope .paper-title a:hover { background-size: 100% 1.5px; }
 .hp-scope .paper-sub { font-size: 1rem; color: var(--color-sub); }
 .hp-scope .paper-pub { font-size: 1rem; margin-top: 0.05rem; }
