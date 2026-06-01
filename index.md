@@ -13,7 +13,7 @@ title: Home
 }
 
 /* ヘッダー */
-.hoshino-page .page-header { margin-bottom: 2rem; }
+.hoshino-page .page-header { display: block; margin-bottom: 2rem; padding: 0; border: none; }
 .hoshino-page .page-header h1 { font-size: 1.9rem; font-weight: 700; color: #1a1a1a; letter-spacing: 0.005em; margin-bottom: 0.1rem; }
 .hoshino-page .position { font-size: 1rem; color: #666; margin-bottom: 1rem; }
 .hoshino-page .meta-row { display: flex; flex-direction: column; gap: 0.3rem; font-size: 1rem; }
@@ -68,14 +68,14 @@ title: Home
 
 <div class="hoshino-page">
 
-  <header class="page-header">
+  <div class="page-header">
     <h1>{{ site.name }}</h1>
     <p class="position">{{ site.position }}</p>
     <div class="meta-row">
       <a href="TetsuyaHoshinoCV260510.pdf">CV (26-05-10)</a>
       <span><span class="lbl">Email:</span> <code>{{ site.email | replace: "@", "[at]" }}</code> <button class="copy-btn" onclick="navigator.clipboard.writeText('{{ site.email }}')">Copy</button></span>
     </div>
-  </header>
+  </div>
 
   <div class="upcoming">
     <div class="upcoming-title">Upcoming Seminars and Conferences</div>
