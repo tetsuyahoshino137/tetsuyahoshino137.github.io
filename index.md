@@ -28,9 +28,13 @@ title: Home
   <div class="section">
     <h2>Working Papers</h2>
     <ul class="paper-list">
-      <li>
+      <!-- <li>
         <div class="paper-title"><a href="papers/GombergHoshino250408.pdf">Elections with Opinion Polls: Information Acquisition and Aggregation</a></div>
         <div class="paper-sub">with Andrei Gomberg<span class="dot">·</span><a href="slides/GombergHoshino_CETC.pdf">Slides</a><span class="dot">·</span><a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Codes</a></div>
+      </li> -->
+      <li>
+        <div class="paper-title"><a href="papers/GombergHoshino250408.pdf">Elections with Opinion Polls: Information Acquisition and Aggregation</a> <span class="authors">with Andrei Gomberg</span></div>
+        <div class="paper-sub"><a href="slides/GombergHoshino_CETC.pdf">Slides</a><span class="dot">·</span><a href="...">Codes</a></div>
       </li>
       <li>
         <div class="paper-title">Rational Inattention and Endogenous Volatility: A Large Deviation Approach</div>
