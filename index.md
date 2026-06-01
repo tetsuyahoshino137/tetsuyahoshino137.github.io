@@ -17,7 +17,7 @@ title: Home
 .hoshino-page .page-header h1 { font-size: 1.9rem; font-weight: 700; color: #1a1a1a; letter-spacing: 0.005em; margin-bottom: 0.1rem; }
 .hoshino-page .position { font-size: 1rem; color: #666; margin-bottom: 1rem; }
 .hoshino-page .meta-row { display: flex; flex-direction: column; gap: 0.3rem; font-size: 1rem; }
-.hoshino-page .meta-row a { color: #2a6496; text-decoration: none; font-weight: 600; }
+.hoshino-page .meta-row a { color: #2a6496; text-decoration: none; font-weight: 700; }
 .hoshino-page .meta-row a:hover { text-decoration: underline; }
 .hoshino-page .meta-row .lbl { color: #999; font-weight: 600; }
 .hoshino-page .meta-row code { font-size: 1rem; color: #444; }
