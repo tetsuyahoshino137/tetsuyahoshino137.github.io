@@ -30,7 +30,7 @@ title: Home
     <ul class="paper-list">
       <li>
         <div class="paper-title"><a href="papers/GombergHoshino250408.pdf">Elections with Opinion Polls: Information Acquisition and Aggregation</a> <span class="authors">with Andrei Gomberg</span></div>
-        <div class="paper-sub"><a href="slides/GombergHoshino_CETC.pdf">Slides</a><span class="dot">·</span><a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Codes</a></div>
+        <div class="paper-sub"><a href="slides/GombergHoshino_CETC.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Codes</a></div>
       </li>
       <li>
         <div class="paper-title">Rational Inattention and Endogenous Volatility: A Large Deviation Approach <span class="authors">with Takashi Ui</span></div>
@@ -42,7 +42,7 @@ title: Home
       </li>
       <li>
         <div class="paper-title"><a href="papers/HoshinoPancs260406.pdf">Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines</a> <span class="authors">with Romans Pancs</span></div>
-        <div class="paper-sub"><a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a><span class="dot">·</span><a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a></div>
+        <div class="paper-sub"><a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a></div>
         <div class="paper-pub"><span class="badge">R&amp;R at <em>Management Science</em></span></div>
       </li>
       <li>
