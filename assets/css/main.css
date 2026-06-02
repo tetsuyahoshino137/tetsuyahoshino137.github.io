@@ -7,7 +7,7 @@
 :root {
   /* ----- フォント ----- */
   --font-sans: 'Nunito', 'M PLUS Rounded 1c', sans-serif;
-  --font-base: 16.5px;        /* 本文の基準サイズ */
+  --font-base: 16px;        /* 本文の基準サイズ */
   --line-height: 1.6;
 
   /* ----- 色 ----- */
