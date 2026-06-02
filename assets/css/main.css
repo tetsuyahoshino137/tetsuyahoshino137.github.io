@@ -85,7 +85,7 @@
 /* ===== Upcoming（index） ===== */
 .hp-scope .upcoming { margin-bottom: 0.5rem; }
 .hp-scope .upcoming-title {
-  font-size: 0.72rem; font-weight: 700; letter-spacing: 0.13em;
+  font-size: 1rem; font-weight: 700; letter-spacing: 0.13em;
   text-transform: uppercase; color: var(--color-faint); margin-bottom: 0.5rem;
 }
 .hp-scope .upcoming-list { list-style: none; }
