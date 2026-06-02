@@ -24,7 +24,7 @@
   --color-card-border: #ddd;  /* カード枠線 */
 
   /* ----- レイアウト ----- */
-  --max-width: 720px;         /* コンテンツ幅 */
+  --max-width: 760px;         /* コンテンツ幅 */
   --section-gap: 2.8rem;      /* セクション間の余白 */
 }
 
