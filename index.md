@@ -16,12 +16,12 @@ title: Home
   <div class="upcoming">
     <div class="upcoming-title">Upcoming Seminars and Conferences</div>
     <ul class="upcoming-list">
-      <li>Chung-Ang U. Conference @ Chung-Ang U. <span class="date">(26-05-28)</span></li>
-      <li>KISDI <span class="date">(26-06-18)</span></li>
-      <li>Waseda U. <span class="date">(26-06-23)</span></li>
-      <li>Keio U. <span class="date">(26-06-26)</span></li>
-      <li>Contract Theory Workshop @ Doshisha U. <span class="date">(26-07-18)</span></li>
-      <li>Workshop on Search and Platform @ Kyoto U. <span class="date">(26-07-23)</span></li>
+      <li><span class="date">26-05-28</span>Chung-Ang U. Conference @ Chung-Ang U.</li>
+      <li><span class="date">26-06-18</span>KISDI</li>
+      <li><span class="date">26-06-23</span>Waseda U.</li>
+      <li><span class="date">26-06-26</span>Keio U.</li>
+      <li><span class="date">26-07-18</span>Contract Theory Workshop @ Doshisha U.</li>
+      <li><span class="date">26-07-23</span>Workshop on Search and Platform @ Kyoto U.</li>
     </ul>
   </div>
 
@@ -33,7 +33,7 @@ title: Home
         <div class="paper-sub"><a href="slides/GombergHoshino_CETC.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Codes</a></div>
       </li>
       <li>
-        <div class="paper-title">Rational Inattention and Endogenous Volatility: A Large Deviation Approach <span class="authors">with Takashi Ui</span></div>
+        <div class="paper-title nolink">Rational Inattention and Endogenous Volatility: A Large Deviation Approach <span class="authors">with Takashi Ui</span></div>
         <div class="paper-sub"><a href="slides/HoshinoUi_BRIC.pdf">Slides</a></div>
       </li>
       <li>
@@ -45,7 +45,7 @@ title: Home
         <div class="paper-sub"><a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a> | <span class="badge">R&amp;R at <em>Management Science</em></span></div>
       </li>
       <li>
-        <div class="paper-title">Recursive Rational Inattention Is Entropic <span class="authors">with Henrique De Oliveira</span></div>
+        <div class="paper-title nolink">Recursive Rational Inattention Is Entropic <span class="authors">with Henrique De Oliveira</span></div>
         <div class="paper-sub"><a href="slides/DeoliveiraHoshino_EconometricSociety.pdf">Slides</a></div>
       </li>
       <li>

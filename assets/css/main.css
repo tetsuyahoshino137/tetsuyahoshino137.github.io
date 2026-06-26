@@ -6,22 +6,22 @@
 
 :root {
   /* ----- フォント ----- */
-  --font-sans: 'Nunito', 'M PLUS Rounded 1c', sans-serif;
+  --font-sans: 'Inter', 'Noto Sans JP', sans-serif;
   --font-base: 16px;        /* 本文の基準サイズ */
   --line-height: 1.6;
 
   /* ----- 色 ----- */
-  --color-text: #2a2a2a;      /* 本文 */
+  --color-text: #1a1a18;      /* 本文 */
   --color-heading: #1a1a1a;   /* 見出し・タイトル */
   --color-sub: #555;          /* 補助テキスト（共著者・説明など） */
   --color-muted: #888;        /* 控えめなテキスト */
   --color-faint: #bbb;        /* さらに控えめ（小見出しラベルなど） */
-  --color-accent: #2a6496;    /* アクセント（リンク・見出し）青 */
-  --color-red: #c0392b;       /* 強調（R&R・掲載誌・ラベル）赤 */
-  --color-bg: #fafaf8;        /* 背景 */
-  --color-card-bg: #fff;      /* カード背景 */
-  --color-border: #e6e4dd;    /* 罫線 */
-  --color-card-border: #ddd;  /* カード枠線 */
+  --color-accent: #C15F3C;    /* アクセント（リンク・見出し）クレイ */
+  --color-badge: #246B5E;     /* 強調（R&R・掲載誌・ラベル）パイン */
+  --color-bg: #F9F7F3;        /* 背景 */
+  --color-card-bg: #FFFEFB;   /* カード背景 */
+  --color-border: #e7ddd0;    /* 罫線 */
+  --color-card-border: #ddd0bf; /* カード枠線 */
 
   /* ----- レイアウト ----- */
   --max-width: 760px;         /* コンテンツ幅 */
@@ -69,13 +69,13 @@
 /* ===== プロフィール情報行（index） ===== */
 .hp-scope .position { font-size: 1rem; color: #666; margin-bottom: 1rem; }
 .hp-scope .meta-row { display: flex; flex-direction: column; gap: 0.3rem; font-size: 1rem; }
-.hp-scope .meta-row a { color: var(--color-accent); text-decoration: none; font-weight: 700; }
-.hp-scope .meta-row a:hover { text-decoration: underline; }
+.hp-scope .meta-row a { color: #1a1a18; text-decoration: underline; text-decoration-color: #b8a894; text-underline-offset: 2px; font-weight: 700; }
+.hp-scope .meta-row a:hover { text-decoration-color: var(--color-accent); }
 .hp-scope .meta-row .lbl { color: #999; font-weight: 600; }
 .hp-scope .meta-row code { font-size: 1rem; color: #444; }
 .hp-scope .copy-btn {
   font-family: inherit; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.03em;
-  padding: 0.08rem 0.45rem; border: 1px solid #ccc; border-radius: 3px;
+  padding: 0.08rem 0.45rem; border: 1px solid #ddd0bf; border-radius: 3px;
   background: transparent; color: var(--color-muted); cursor: pointer;
 }
 .hp-scope .copy-btn:hover { background: var(--color-accent); color: #fff; border-color: var(--color-accent); }
@@ -83,18 +83,20 @@
 /* ===== Upcoming（index） ===== */
 .hp-scope .upcoming { margin-bottom: 0.5rem; }
 .hp-scope .upcoming-title {
-  font-size: 1rem; font-weight: 700; letter-spacing: 0.13em;
-  text-transform: uppercase; color: var(--color-faint); margin-bottom: 0.5rem;
+  font-size: 0.78rem; font-weight: 700; letter-spacing: 0.16em;
+  text-transform: uppercase; color: #a89e90;
+  padding-bottom: 0.5rem; margin-bottom: 0.5rem;
+  border-bottom: 1px solid var(--color-border);
 }
 .hp-scope .upcoming-list { list-style: none; }
-.hp-scope .upcoming-list li { font-size: 0.85rem; color: var(--color-muted); line-height: 1.7; }
-.hp-scope .upcoming-list li .date { color: #aaa; }
+.hp-scope .upcoming-list li { display: flex; font-size: 0.85rem; line-height: 1.7; color: #33312c; }
+.hp-scope .upcoming-list li .date { width: 5.5em; flex-shrink: 0; color: #9c9285; font-variant-numeric: tabular-nums; }
 
 /* ===== セクション見出し（全ページ共通） ===== */
 .hp-scope .section { margin-top: var(--section-gap); }
 .hp-scope .section h2 {
   font-size: 1rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase;
-  color: var(--color-accent); padding-bottom: 0.5rem; margin-bottom: 1.3rem;
+  color: var(--color-heading); padding-bottom: 0.5rem; margin-bottom: 1.3rem;
   border-bottom: 1px solid var(--color-border);
 }
 .hp-scope .section > p { margin-bottom: 1em; }
@@ -104,8 +106,9 @@
 .hp-scope .paper-list > li { margin-bottom: 0.7rem; }
 .hp-scope .paper-list > li:last-child { margin-bottom: 0; }
 .hp-scope .paper-title { font-weight: 700; color: var(--color-heading); line-height: 1.45; margin-bottom: 0.1rem; }
+.hp-scope .paper-title.nolink { color: #8c8378; }
 .hp-scope .paper-title a {
-  color: var(--color-accent); text-decoration: none;
+  color: var(--color-heading); text-decoration: none;
   background-image: linear-gradient(var(--color-accent), var(--color-accent));
   background-size: 0% 1.5px; background-repeat: no-repeat; background-position: 0 100%;
   transition: background-size 0.2s; padding-bottom: 1px;
@@ -114,10 +117,11 @@
 .hp-scope .paper-title a:hover { background-size: 100% 1.5px; }
 .hp-scope .paper-sub { font-size: 1rem; color: var(--color-sub); }
 .hp-scope .paper-pub { font-size: 1rem; margin-top: 0.05rem; }
-.hp-scope .paper-sub a { color: var(--color-accent); text-decoration: none; }
-.hp-scope .paper-sub a:hover { text-decoration: underline; }
-.hp-scope .badge { color: var(--color-red); font-weight: 600; }
-.hp-scope .badge a { color: var(--color-red); }
+.hp-scope .paper-sub a { color: #1a1a18; text-decoration: underline; text-decoration-color: #b8a894; text-underline-offset: 2px; }
+.hp-scope .paper-sub a:hover { text-decoration-color: var(--color-accent); }
+.hp-scope .badge { color: var(--color-accent); font-weight: 600; }
+.hp-scope .badge a { color: var(--color-accent); text-decoration: none; }
+.hp-scope .badge a:hover { text-decoration: underline; text-decoration-color: var(--color-accent); text-underline-offset: 2px; }
 /* .hp-scope .dot { color: #ccc; margin: 0 0.4rem; } */
 
 /* ===== イントロ（posts / youtube） ===== */
@@ -135,12 +139,12 @@
   background: var(--color-card-bg); border: 1px solid var(--color-card-border);
   border-left: 3px solid var(--color-accent); border-radius: 4px;
   text-decoration: none; color: inherit;
-  transition: border-left-color 0.15s, box-shadow 0.15s;
+  transition: border-left-color 0.15s, box-shadow 0.15s, background-color 0.15s;
 }
-.hp-scope .post-card:hover { border-left-color: var(--color-red); box-shadow: 0 2px 8px rgba(0,0,0,0.08); text-decoration: none; }
+.hp-scope .post-card:hover { background: #F4EDE4; box-shadow: 0 3px 10px rgba(60,40,20,0.12); text-decoration: none; }
 .hp-scope .pc-title {
   font-weight: 700; font-size: 1rem; color: var(--color-accent); line-height: 1.6; margin-bottom: 0.3rem;
-  text-decoration: underline; text-decoration-color: rgba(42,100,150,0.4);
+  text-decoration: underline; text-decoration-color: rgba(193,95,60,0.4);
 }
 .hp-scope .post-card:hover .pc-title { text-decoration-color: var(--color-accent); }
 .hp-scope .pc-desc { font-size: 0.9rem; color: var(--color-sub); line-height: 1.6; }
@@ -149,7 +153,7 @@
 
 /* ===== 目次（youtube） ===== */
 .hp-scope .toc {
-  background: #f0f0ec; border-radius: 6px; padding: 1.2rem 1.6rem; margin: 2rem 0;
+  background: #F4EDE4; border-radius: 6px; padding: 1.2rem 1.6rem; margin: 2rem 0;
   display: inline-block; min-width: 260px; max-width: 100%;
 }
 .hp-scope .toc-label { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-faint); margin-bottom: 0.7rem; }
@@ -164,18 +168,18 @@
   background: var(--color-card-bg); border: 1px solid var(--color-card-border);
   border-left: 3px solid var(--color-accent); border-radius: 4px;
   text-decoration: none; color: inherit;
-  transition: border-left-color 0.15s, box-shadow 0.15s;
+  transition: border-left-color 0.15s, box-shadow 0.15s, background-color 0.15s;
 }
-.hp-scope .video-link:hover { border-left-color: var(--color-red); box-shadow: 0 2px 8px rgba(0,0,0,0.08); text-decoration: none; }
+.hp-scope .video-link:hover { background: #F4EDE4; box-shadow: 0 3px 10px rgba(60,40,20,0.12); text-decoration: none; }
 .hp-scope div.video-link { cursor: default; }
-.hp-scope .vl-label { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-red); margin-bottom: 0.25rem; }
+.hp-scope .vl-label { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-muted); margin-bottom: 0.25rem; }
 .hp-scope .vl-title { font-weight: 700; font-size: 1rem; color: var(--color-heading); line-height: 1.6; margin-bottom: 0.3rem; }
-.hp-scope .vl-title a { color: var(--color-accent); text-decoration: underline; text-decoration-color: rgba(42,100,150,0.4); }
+.hp-scope .vl-title a { color: var(--color-accent); text-decoration: underline; text-decoration-color: rgba(193,95,60,0.4); }
 .hp-scope .vl-title a:hover { text-decoration-color: var(--color-accent); }
 .hp-scope .vl-desc { font-size: 0.9rem; color: var(--color-sub); line-height: 1.6; }
 
 /* ===== ノート（youtube） ===== */
-.hp-scope .note { display: block; font-size: 0.86rem; color: var(--color-muted); padding: 0 0 0 0.85rem; margin: 0.85rem 0; line-height: 1.6; border-left: 2px solid #eee; }
+.hp-scope .note { display: block; font-size: 0.86rem; color: var(--color-muted); padding: 0 0 0 0.85rem; margin: 0.85rem 0; line-height: 1.6; border-left: 2px solid #e7ddd0; }
 .hp-scope .section .note { margin-bottom: 0.85em; }
 
 /* ===== サブリスト（youtube） ===== */
