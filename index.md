@@ -16,10 +16,6 @@ title: Home
   <div class="upcoming">
     <div class="upcoming-title">Upcoming Seminars and Conferences</div>
     <ul class="upcoming-list">
-      <li><span class="date">26-05-28</span>Chung-Ang U. Conference @ Chung-Ang U.</li>
-      <li><span class="date">26-06-18</span>KISDI</li>
-      <li><span class="date">26-06-23</span>Waseda U.</li>
-      <li><span class="date">26-06-26</span>Keio U.</li>
       <li><span class="date">26-07-18</span>Contract Theory Workshop @ Doshisha U.</li>
       <li><span class="date">26-07-23</span>Workshop on Search and Platform @ Kyoto U.</li>
     </ul>
