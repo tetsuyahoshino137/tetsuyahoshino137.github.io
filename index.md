@@ -8,7 +8,7 @@ title: Home
     <h1>{{ site.name }}</h1>
     <p class="position">{{ site.position }}</p>
     <div class="meta-row">
-      <a href="TetsuyaHoshinoCV260510.pdf">CV (26-05-10)</a>
+      <a href="TetsuyaHoshinoCV260626.pdf">CV (26-06-26)</a>
       <span><span class="lbl">Email:</span> <code>{{ site.email | replace: "@", "[at]" }}</code> <button class="copy-btn" onclick="navigator.clipboard.writeText('{{ site.email }}')">Copy</button></span>
     </div>
   </div>
