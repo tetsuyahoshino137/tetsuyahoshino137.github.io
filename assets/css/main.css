@@ -195,6 +195,17 @@
 .hp-scope .channel-list li a { color: var(--color-accent); text-decoration: none; }
 .hp-scope .channel-list li a:hover { text-decoration: underline; }
 
+/* ===== チャンネル（youtube・新レイアウト） ===== */
+.hp-scope .ch-item { padding: 0.9rem 0; border-bottom: 1px solid var(--color-border); }
+.hp-scope .ch-item:last-child { border-bottom: none; }
+.hp-scope .ch-name { font-size: 1rem; font-weight: 700; color: #1a1a18; line-height: 1.5; margin-bottom: 0.3rem; }
+.hp-scope .ch-name a { color: #1a1a18; text-decoration: underline; text-decoration-color: var(--color-accent); text-underline-offset: 2px; }
+.hp-scope .ch-name a:hover { text-decoration-color: var(--color-accent); }
+.hp-scope .ch-desc { font-size: 0.9rem; color: #8c8378; line-height: 1.6; }
+.hp-scope .ch-desc small { display: block; margin-top: 0.3rem; font-size: 0.84rem; color: #8c8378; line-height: 1.6; }
+.hp-scope .ch-desc a { color: #1a1a18; text-decoration: underline; text-decoration-color: #b8a894; text-underline-offset: 2px; }
+.hp-scope .ch-desc a:hover { text-decoration-color: var(--color-accent); }
+
 /* ===== 後日追加（youtube） ===== */
 .hp-scope .soon { color: #aaa; font-style: italic; }
 
