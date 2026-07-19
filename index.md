@@ -13,6 +13,7 @@ title: Home
     </div>
   </div>
 
+  <!--
   <div class="upcoming">
     <div class="upcoming-title">Upcoming Seminars and Conferences</div>
     <ul class="upcoming-list">
@@ -20,6 +21,7 @@ title: Home
       <li><span class="date">26-07-23</span>Workshop on Search and Platform @ Kyoto U.</li>
     </ul>
   </div>
+  -->
 
   <div class="section">
     <h2>Working Papers</h2>
