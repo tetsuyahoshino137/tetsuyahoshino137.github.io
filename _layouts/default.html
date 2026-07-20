@@ -27,7 +27,7 @@
       margin: 0 auto;
       padding: 14px 30px;
       display: flex;
-      justify-content: space-between;
+      justify-content: flex-end;
       align-items: center;
     }
 
@@ -215,7 +215,6 @@
 
   <header>
     <div class="header-inner">
-      <div class="site-title">{{ site.title }}</div>
       <nav>
         <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
         <span class="sep">·</span>
