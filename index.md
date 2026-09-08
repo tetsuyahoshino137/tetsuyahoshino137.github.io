@@ -39,7 +39,7 @@ title: Home
         <div class="paper-pub"><span class="badge">R&amp;R at <em>Journal of Comparative Economics</em></span></div>
       </li>
       <li>
-        <div class="paper-title"><a href="papers/HoshinoPancs260406.pdf">Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines</a> <span class="authors">with Romans Pancs</span></div>
+        <div class="paper-title"><a href="papers/HoshinoPancs260906.pdf">Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines</a> <span class="authors">with Romans Pancs</span></div>
         <div class="paper-sub"><a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a> | <span class="badge">R&amp;R at <em>Management Science</em></span></div>
       </li>
       <li>
