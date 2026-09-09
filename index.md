@@ -46,6 +46,9 @@ title: Home
         <div class="paper-title nolink">Recursive Rational Inattention Is Entropic <span class="authors">with Henrique De Oliveira</span></div>
         <div class="paper-sub"><a href="slides/DeoliveiraHoshino_EconometricSociety.pdf">Slides</a></div>
       </li>
+      <!-- <li>
+        <div class="paper-title"><a href="papers/HoshinoKM260909.pdf">Generic Finite Games Have Elaborations with Nearly Unique Equilibrium Outcomes</a></div>
+      </li> -->
       <li>
         <div class="paper-title"><a href="papers/HoshinoJMP.pdf">Rational Inattention in Games</a></div>
         <div class="paper-sub">Partially subsumed by joint work with Takashi Ui.</div>
