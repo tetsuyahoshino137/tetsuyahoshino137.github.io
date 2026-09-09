@@ -47,7 +47,7 @@ title: Home
         <div class="paper-sub"><a href="slides/DeoliveiraHoshino_EconometricSociety.pdf">Slides</a></div>
       </li>
       <li>
-        <div class="paper-title"><a href="papers/HoshinoKM0260910.pdf">Generic Games Have Elaborations with Nearly Unique Equilibrium Outcomes</a></div>
+        <div class="paper-title"><a href="papers/HoshinoKM260910.pdf">Generic Games Have Elaborations with Nearly Unique Equilibrium Outcomes</a></div>
         <div class="paper-sub"><a href="https://github.com/tetsuyahoshino137/km-lean">Lean</a></div>
       </li>
       <li>
