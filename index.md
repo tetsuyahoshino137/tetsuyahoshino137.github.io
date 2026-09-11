@@ -17,7 +17,6 @@ title: Home
   <div class="upcoming">
     <div class="upcoming-title">Upcoming Seminars and Conferences</div>
     <ul class="upcoming-list">
-      <li><span class="date">26-07-18</span>Contract Theory Workshop @ Doshisha U.</li>
       <li><span class="date">26-07-23</span>Workshop on Search and Platform @ Kyoto U.</li>
     </ul>
   </div>
@@ -48,6 +47,7 @@ title: Home
       </li>
       <li>
         <div class="paper-title"><a href="papers/HoshinoKM260910.pdf">Generic Games Have Elaborations with Nearly Unique Equilibrium Outcomes</a></div>
+        <div class="paper-sub">Preliminary.</div>
         <!-- <div class="paper-sub"><a href="https://github.com/tetsuyahoshino137/km-lean">Lean</a></div> -->
       </li>
       <li>
