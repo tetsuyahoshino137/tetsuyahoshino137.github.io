@@ -39,7 +39,7 @@ title: Home
       </li>
       <li>
         <div class="paper-title"><a href="papers/HoshinoPancs260908.pdf">Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines</a> <span class="authors">with Romans Pancs</span></div>
-        <div class="paper-sub"><a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a> | <span class="badge">R&amp;R at <em>Management Science</em></span></div>
+        <div class="paper-sub"><a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a> | <span class="badge">Conditionally Accepted at <em>Management Science</em></span></div>
       </li>
       <li>
         <div class="paper-title nolink">Recursive Rational Inattention Is Entropic <span class="authors">with Henrique De Oliveira</span></div>
