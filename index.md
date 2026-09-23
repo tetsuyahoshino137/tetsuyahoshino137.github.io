@@ -74,21 +74,42 @@ title: Home
           <a href="papers/ChatterjeeDongHoshinoAEJ240904.pdf">Bargaining and Information Acquisition</a> 
           <span class="authors">with Kalyan Chatterjee and Miaomiao Dong</span>
         </div>
-        <div class="paper-pub"><span class="badge">
-          <a href="https://www.aeaweb.org/articles?id=10.1257/mic.20240034"><em>American Economic Journal: Micro</em></a> (2025)</span>
+        <div class="paper-pub">
+          <span class="badge">
+            <a href="https://www.aeaweb.org/articles?id=10.1257/mic.20240034"><em>American Economic Journal: Micro</em></a> (2025)
+          </span>
         </div>
       </li>
       <li>
-        <div class="paper-title"><a href="papers/HoshinoIER210901.pdf">Multi-Agent Persuasion: Leveraging Strategic Uncertainty</a></div>
-        <div class="paper-pub"><span class="badge"><a href="https://onlinelibrary.wiley.com/doi/10.1111/iere.12546"><em>International Economic Review</em></a> (2022)</span></div>
+        <div class="paper-title">
+          <a href="papers/HoshinoIER210901.pdf">Multi-Agent Persuasion: Leveraging Strategic Uncertainty</a>
+        </div>
+        <div class="paper-pub">
+          <span class="badge">
+            <a href="https://onlinelibrary.wiley.com/doi/10.1111/iere.12546"><em>International Economic Review</em></a> (2022)
+          </span>
+        </div>
       </li>
       <li>
-        <div class="paper-title"><a href="papers/HoshinoKamadaJQC200601.pdf">Third-Party Policing Approaches against Organized Crime</a> <span class="authors">with Takuma Kamada</span></div>
-        <div class="paper-pub"><span class="badge"><a href="https://link.springer.com/article/10.1007/s10940-020-09466-6"><em>Journal of Quantitative Criminology</em></a> (2021)</span></div>
+        <div class="paper-title">
+          <a href="papers/HoshinoKamadaJQC200601.pdf">Third-Party Policing Approaches against Organized Crime</a>
+          <span class="authors">with Takuma Kamada</span>
+        </div>
+        <div class="paper-pub">
+          <span class="badge">
+            <a href="https://link.springer.com/article/10.1007/s10940-020-09466-6"><em>Journal of Quantitative Criminology</em></a> (2021)
+          </span>
+        </div>
       </li>
       <li>
-        <div class="paper-title"><a href="papers/BasuChatterjeeHoshinoTamuzJET200731.pdf">Repeated Coordination with Private Learning</a> <span class="authors">with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz</span></div>
-        <div class="paper-pub"><span class="badge"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053120300995"><em>Journal of Economic Theory</em></a> (2020)</span></div>
+        <div class="paper-title">
+          <a href="papers/BasuChatterjeeHoshinoTamuzJET200731.pdf">Repeated Coordination with Private Learning</a>
+          <span class="authors">with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz</span></div>
+        <div class="paper-pub">
+          <span class="badge">
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053120300995"><em>Journal of Economic Theory</em></a> (2020)
+          </span>
+        </div>
       </li>
     </ul>
   </div>
