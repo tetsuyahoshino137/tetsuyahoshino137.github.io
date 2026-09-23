@@ -62,12 +62,12 @@ title: Home
           <span class="authors">with Romans Pancs</span>
         </div>
         <div class="paper-sub">
-          <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | 
-          <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a> | 
           <span class="badge">
             <a href="https://www.aeaweb.org/articles?id=10.1257/mic.20240034">Conditionally Accepted at <em>Management Science</em></a> (2025)</span>
-          </span>
-        </div>
+          </span> | 
+          <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | 
+          <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a>
+          </div>
       </li>
       <li>
         <div class="paper-title">
