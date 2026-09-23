@@ -63,7 +63,7 @@ title: Home
         </div>
         <div class="paper-sub">
           <span class="badge">
-            Conditionally Accepted at <a href="https://www.aeaweb.org/articles?id=10.1257/mic.20240034"><em>Management Science</em></a> (2025)
+            <em>Management Science</em> (forthcoming)
           </span>| 
           <!-- <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> |  -->
           <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a>
