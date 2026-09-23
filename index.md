@@ -63,7 +63,7 @@ title: Home
         </div>
         <div class="paper-sub">
           <span class="badge">
-            <em>Management Science</em> (forthcoming)
+            Conditionally Accepted at <em>Management Science</em>
           </span>| 
           <!-- <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> |  -->
           <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a>
