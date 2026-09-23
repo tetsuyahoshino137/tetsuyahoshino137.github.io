@@ -26,28 +26,41 @@ title: Home
     <h2>Working Papers</h2>
     <ul class="paper-list">
       <li>
-        <div class="paper-title"><a href="papers/GombergHoshino250408.pdf">Elections with Opinion Polls: Information Acquisition and Aggregation</a> <span class="authors">with Andrei Gomberg</span></div>
-        <div class="paper-sub"><a href="slides/GombergHoshino_CETC.pdf">Slides</a> | <a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Codes</a></div>
+        <div class="paper-title">
+          <a href="papers/GombergHoshino250408.pdf">Elections with Opinion Polls: Information Acquisition and Aggregation</a> 
+          <span class="authors">with Andrei Gomberg</span></div>
+        <div class="paper-sub">
+          <a href="slides/GombergHoshino_CETC.pdf">Slides</a> | 
+          <a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Codes</a>
+        </div>
       </li>
       <li>
-        <div class="paper-title nolink">Rational Inattention and Endogenous Volatility: A Large Deviation Approach <span class="authors">with Takashi Ui</span></div>
-        <div class="paper-sub"><a href="slides/HoshinoUi_BRIC.pdf">Slides</a></div>
+        <div class="paper-title nolink">
+          Rational Inattention and Endogenous Volatility: A Large Deviation Approach
+          <span class="authors">with Takashi Ui</span></div>
+        <div class="paper-sub"><a href="slides/HoshinoUi_BRIC.pdf">Slides</a>
+        </div>
       </li>
       <li>
-        <div class="paper-title"><a href="papers/HoshinoKamada260125.pdf">Indirect Enforcement and Transformation of Organized Crime: Evidence from the Yakuza</a> <span class="authors">with Takuma Kamada</span></div>
+        <div class="paper-title">
+          <a href="papers/HoshinoKamada260125.pdf">Indirect Enforcement and Transformation of Organized Crime: Evidence from the Yakuza</a> 
+          <span class="authors">with Takuma Kamada</span></div>
         <div class="paper-pub"><span class="badge">R&amp;R at <em>Journal of Comparative Economics</em></span></div>
       </li>
       <li>
-        <div class="paper-title nolink">Recursive Rational Inattention Is Entropic <span class="authors">with Henrique De Oliveira</span></div>
+        <div class="paper-title nolink">
+          Recursive Rational Inattention Is Entropic 
+          <span class="authors">with Henrique De Oliveira</span>
+        </div>
         <div class="paper-sub"><a href="slides/DeoliveiraHoshino_EconometricSociety.pdf">Slides</a></div>
       </li>
       <li>
         <div class="paper-title nolink">Generic Games Have Elaborations with Nearly Unique Equilibrium Outcomes</div>
-        <!-- <div class="paper-title"><a href="papers/HoshinoKM260910.pdf">Generic Games Have Elaborations with Nearly Unique Equilibrium Outcomes</a></div> -->
-        <!-- <div class="paper-sub"><a href="https://github.com/tetsuyahoshino137/km-lean">Lean</a></div> -->
       </li>
       <li>
-        <div class="paper-title"><a href="papers/HoshinoJMP.pdf">Rational Inattention in Games</a></div>
+        <div class="paper-title">
+          <a href="papers/HoshinoJMP.pdf">Rational Inattention in Games</a>
+        </div>
         <div class="paper-sub">Partially subsumed by joint work with Takashi Ui.</div>
       </li>
     </ul>
@@ -62,9 +75,7 @@ title: Home
           <span class="authors">with Romans Pancs</span>
         </div>
         <div class="paper-sub">
-          <span class="badge">
-            Conditionally Accepted at <em>Management Science</em>
-          </span>| 
+          Conditionally Accepted at <span class="badge">Conditionally Accepted at <em>Management Science</em></span>| 
           <!-- <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> |  -->
           <a href="https://colab.research.google.com/drive/1zIY4-pjJv4uWzs7OlHq-XOe5-MAmSGNU?usp=sharing">Codes</a>
           </div>
