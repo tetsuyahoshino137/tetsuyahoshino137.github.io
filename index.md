@@ -76,7 +76,7 @@ title: Home
         </div>
         <div class="paper-sub">
           Conditionally Accepted at <span class="badge"><em>Management Science</em></span> | 
-          <a href="https://github.com/tetsuyahoshino137/tetsuyahoshino137.github.io/tree/main/replication/hoshino-pancs">Code &amp; data (GitHub)</a>
+          <a href="https://github.com/tetsuyahoshino137/tetsuyahoshino137.github.io/tree/main/replication/hoshino-pancs">Replication Files</a>
           </div>
       </li>
       <li>
