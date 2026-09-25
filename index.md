@@ -71,7 +71,7 @@ title: Home
     <ul class="paper-list">
       <li>
         <div class="paper-title">
-          <a href="papers/HoshinoPancs260924.pdf">Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines</a>
+          <a href="papers/HoshinoPancs260925.pdf">Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines</a>
           <span class="authors">with Romans Pancs</span>
         </div>
         <div class="paper-sub">
