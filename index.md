@@ -31,7 +31,7 @@ title: Home
           <span class="authors">with Andrei Gomberg</span></div>
         <div class="paper-sub">
           <a href="slides/GombergHoshino_CETC.pdf">Slides</a> | 
-          <a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Codes</a>
+          <a href="https://colab.research.google.com/drive/1Udqhdzlq0Cck9HbkMKYVyT4HPwApEFsW?usp=sharing">Code</a>
         </div>
       </li>
       <li>
