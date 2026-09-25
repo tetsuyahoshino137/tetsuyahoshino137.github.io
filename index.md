@@ -77,8 +77,7 @@ title: Home
         <div class="paper-sub">
           Accepted at <span class="badge"><em>Management Science</em></span> | 
           <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides (24-07)</a> | 
-          <!-- <a href="replication/hoshino-pancs">Replication Files (24-09)</a> -->
-          <a href="https://github.com/tetsuyahoshino137/tetsuyahoshino137.github.io/tree/main/replication/hoshino-pancs">Replication Files</a>
+          <a href="https://github.com/tetsuyahoshino137/tetsuyahoshino137.github.io/tree/main/replication/hoshino-pancs">Replication Files (24-09)</a>
         </div>
       </li>
       <li>
