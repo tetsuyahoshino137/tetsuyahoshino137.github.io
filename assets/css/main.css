@@ -117,8 +117,10 @@
 .hp-scope .paper-title a:hover { background-size: 100% 1.5px; }
 .hp-scope .paper-sub { font-size: 1rem; color: var(--color-sub); }
 .hp-scope .paper-pub { font-size: 1rem; margin-top: 0.05rem; }
-.hp-scope .paper-sub a { color: #1a1a18; text-decoration: underline; text-decoration-color: #b8a894; text-underline-offset: 2px; }
-.hp-scope .paper-sub a:hover { text-decoration-color: var(--color-accent); }
+.hp-scope .paper-sub a,
+.hp-scope .paper-pub > a { color: #1a1a18; text-decoration: underline; text-decoration-color: #b8a894; text-underline-offset: 2px; }
+.hp-scope .paper-sub a:hover,
+.hp-scope .paper-pub > a:hover { text-decoration-color: var(--color-accent); }
 .hp-scope .badge { color: var(--color-accent); font-weight: 600; }
 .hp-scope .badge a { color: var(--color-accent); text-decoration: none; }
 .hp-scope .badge a:hover { text-decoration: underline; text-decoration-color: var(--color-accent); text-underline-offset: 2px; }
