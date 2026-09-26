@@ -66,6 +66,7 @@ title: Home
     </ul>
   </div>
 
+  <!--
   <div class="section">
     <h2>Publications</h2>
     <ul class="paper-list">
@@ -121,8 +122,8 @@ title: Home
       </li>
     </ul>
   </div>
+  -->
 
-  <!--
   <div class="section">
     <h2>Publications</h2>
     <ul class="paper-list">
@@ -181,5 +182,4 @@ title: Home
       </li>
     </ul>
   </div>
-  -->
 </div>
