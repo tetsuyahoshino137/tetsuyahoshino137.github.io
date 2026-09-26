@@ -71,6 +71,71 @@ title: Home
     <ul class="paper-list">
       <li>
         <div class="paper-title">
+          Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines
+          <span class="authors">with Romans Pancs</span>
+        </div>
+        <div class="paper-sub">
+          Accepted at <span class="badge"><em>Management Science</em></span> | 
+          <a href="papers/HoshinoPancs260925.pdf">WP Ver.</a> | 
+          <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | 
+          <a href="https://github.com/tetsuyahoshino137/tetsuyahoshino137.github.io/tree/main/replication/hoshino-pancs">Replication Files</a>
+        </div>
+      </li>
+      <li>
+        <div class="paper-title">
+          Bargaining and Information Acquisition
+          <span class="authors">with Kalyan Chatterjee and Miaomiao Dong</span>
+        </div>
+        <div class="paper-pub">
+          <span class="badge">
+            <a href="https://www.aeaweb.org/articles?id=10.1257/mic.20240034"><em>American Economic Journal: Micro</em></a> (2025) | 
+            <a href="papers/ChatterjeeDongHoshinoAEJ240904.pdf">WP Ver.</a>
+          </span>
+        </div>
+      </li>
+      <li>
+        <div class="paper-title">
+          Multi-Agent Persuasion: Leveraging Strategic Uncertainty
+        </div>
+        <div class="paper-pub">
+          <span class="badge">
+            <a href="https://onlinelibrary.wiley.com/doi/10.1111/iere.12546"><em>International Economic Review</em></a> (2022) | 
+            <a href="papers/HoshinoIER210901.pdf">WP Ver.</a>
+          </span>
+        </div>
+      </li>
+      <li>
+        <div class="paper-title">
+          Third-Party Policing Approaches against Organized Crime
+          <span class="authors">with Takuma Kamada</span>
+        </div>
+        <div class="paper-pub">
+          <span class="badge">
+            <a href="https://link.springer.com/article/10.1007/s10940-020-09466-6"><em>Journal of Quantitative Criminology</em></a> (2021) | 
+            <a href="papers/HoshinoKamadaJQC200601.pdf">WP Ver.</a>
+          </span>
+        </div>
+      </li>
+      <li>
+        <div class="paper-title">
+          Repeated Coordination with Private Learning
+          <span class="authors">with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz</span></div>
+        <div class="paper-pub">
+          <span class="badge">
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053120300995"><em>Journal of Economic Theory</em></a> (2020) | 
+            <a href="papers/BasuChatterjeeHoshinoTamuzJET200731.pdf">WP Ver.</a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  <!--
+  <div class="section">
+    <h2>Publications</h2>
+    <ul class="paper-list">
+      <li>
+        <div class="paper-title">
           <a href="papers/HoshinoPancs260925.pdf">Estimating Pair-Specific Network Effects in Binary-Action Games: Two-Sided Markets via Restricted Boltzmann Machines</a>
           <span class="authors">with Romans Pancs</span>
         </div>
@@ -124,4 +189,5 @@ title: Home
       </li>
     </ul>
   </div>
+  -->
 </div>
