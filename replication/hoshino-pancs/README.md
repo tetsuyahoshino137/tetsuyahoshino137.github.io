@@ -36,4 +36,4 @@ No new estimation or GPU is needed. Download and extract the ZIP, then:
 
 The ZIP contains the code, synthetic observations, true parameters, full saved estimation histories, and detailed README. The separate [README.pdf](README.pdf) is identical to the PDF in the ZIP and also describes the package's command-line scripts.
 
-Please cite the paper named above when using these materials. Questions: [Tetsuya Hoshino](mailto:tetsuyahoshino137@gmail.com).
+Please cite the paper named above when using these materials.
