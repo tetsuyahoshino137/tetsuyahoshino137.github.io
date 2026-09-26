@@ -75,7 +75,8 @@ title: Home
           <span class="authors">with Romans Pancs</span>
         </div>
         <div class="paper-sub">
-          Accepted at <span class="badge"><em>Management Science</em></span> | 
+          Accepted at 
+          <span class="badge"><em>Management Science</em></span> | 
           <a href="papers/HoshinoPancs260925.pdf">WP Version</a> | 
           <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | 
           <a href="https://github.com/tetsuyahoshino137/tetsuyahoshino137.github.io/tree/main/replication/hoshino-pancs">Replication Files</a>
