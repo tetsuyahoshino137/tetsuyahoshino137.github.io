@@ -136,6 +136,7 @@ title: Home
           Accepted at <span class="badge"><em>Management Science</em></span> | 
           <a href="slides/HoshinoPancs_EconometricSocietyAIML.pdf">Slides</a> | 
           <a href="https://github.com/tetsuyahoshino137/tetsuyahoshino137.github.io/tree/main/replication/hoshino-pancs">Code</a>
+          <a href="replication/hoshino-pancs">Code</a>
         </div>
       </li>
       <li>
