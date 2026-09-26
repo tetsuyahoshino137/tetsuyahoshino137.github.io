@@ -115,7 +115,7 @@ title: Home
           <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053120300995">Repeated Coordination with Private Learning</a>
           <span class="authors">with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz</span></div>
         <div class="paper-pub">
-          <span class="badge"><em>Journal of Economic Theory</em></span> (2020) | 
+          <em>Journal of Economic Theory</em> (2020) | 
           <a href="papers/BasuChatterjeeHoshinoTamuzJET200731.pdf">WP Version</a>
         </div>
       </li>
