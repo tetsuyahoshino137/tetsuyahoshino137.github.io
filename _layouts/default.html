@@ -209,7 +209,7 @@
     }
   </style>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 </head>
 <body{% if page.permalink == '/posts/' or page.permalink contains '/日本語/' %} class="post-page"{% endif %}>
 
