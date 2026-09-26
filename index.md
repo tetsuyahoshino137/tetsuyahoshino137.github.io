@@ -127,7 +127,9 @@ title: Home
           <span class="badge">
             <em>Journal of Economic Theory</em>
           </span> (2020) | 
-          <a href="papers/BasuChatterjeeHoshinoTamuzJET200731.pdf">WP Version</a>
+          <a href="papers/BasuChatterjeeHoshinoTamuzJET200731.pdf">
+            WP Version
+          </a>
         </div>
       </li>
     </ul>
