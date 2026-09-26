@@ -84,7 +84,7 @@ title: Home
       <li>
         <div class="paper-title">
           <a href="https://www.aeaweb.org/articles?id=10.1257/mic.20240034">Bargaining and Information Acquisition</a>
-          with Kalyan Chatterjee and Miaomiao Dong
+          <span class="authors">with Kalyan Chatterjee and Miaomiao Dong</span>
         </div>
         <div class="paper-pub">
           <span class="badge"><em>American Economic Journal: Micro</em></span> (2025) 
