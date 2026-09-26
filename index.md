@@ -84,10 +84,11 @@ title: Home
       <li>
         <div class="paper-title">
           <a href="https://www.aeaweb.org/articles?id=10.1257/mic.20240034">Bargaining and Information Acquisition</a>
-          <span class="authors">with Kalyan Chatterjee and Miaomiao Dong</span>
+          with Kalyan Chatterjee and Miaomiao Dong
         </div>
         <div class="paper-pub">
-          <span class="badge"><em>American Economic Journal: Micro</em></span>  (2025) | 
+          <span class="badge"><em>American Economic Journal: Micro</em></span> (2025) 
+          | 
           <a href="papers/ChatterjeeDongHoshinoAEJ240904.pdf">WP Version</a>
         </div>
       </li>
@@ -96,7 +97,8 @@ title: Home
           <a href="https://onlinelibrary.wiley.com/doi/10.1111/iere.12546">Multi-Agent Persuasion: Leveraging Strategic Uncertainty</a>
         </div>
         <div class="paper-pub">
-          <span class="badge"><em>International Economic Review</em></span>  (2022) | 
+          <span class="badge"><em>International Economic Review</em></span>  (2022) 
+          | 
           <a href="papers/HoshinoIER210901.pdf">WP Version</a>
         </div>
       </li>
@@ -106,7 +108,8 @@ title: Home
           <span class="authors">with Takuma Kamada</span>
         </div>
         <div class="paper-pub">
-          <span class="badge"><em>Journal of Quantitative Criminology</em></span>  (2021) | 
+          <span class="badge"><em>Journal of Quantitative Criminology</em></span>  (2021) 
+          | 
           <a href="papers/HoshinoKamadaJQC200601.pdf">WP Version</a>
         </div>
       </li>
@@ -115,7 +118,8 @@ title: Home
           <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053120300995">Repeated Coordination with Private Learning</a>
           <span class="authors">with Pathikrit Basu, Kalyan Chatterjee, and Omer Tamuz</span></div>
         <div class="paper-pub">
-          <span class="badge"><em>Journal of Economic Theory</em></span>  (2020) | 
+          <span class="badge"><em>Journal of Economic Theory</em></span>  (2020) 
+          | 
           <a href="papers/BasuChatterjeeHoshinoTamuzJET200731.pdf">WP Version</a>
         </div>
       </li>
