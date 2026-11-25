@@ -43,7 +43,7 @@ title: Home
       </li>
       <li>
         <div class="paper-title">
-          <a href="papers/HoshinoKamada260125.pdf">Indirect Enforcement and Transformation of Organized Crime: Evidence from the Yakuza</a> 
+          <a href="papers/HoshinoKamada261125.pdf">Indirect Enforcement and Transformation of Organized Crime: Evidence from the Yakuza</a> 
           <span class="authors">with Takuma Kamada</span></div>
         <div class="paper-pub"><span class="badge">R&amp;R at <em>Journal of Comparative Economics</em></span></div>
       </li>
